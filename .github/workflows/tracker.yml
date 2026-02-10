@@ -1,17 +1,23 @@
 name: Sodex Trade Tracker
+
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:        # Allows you to click a button to run it manually
+    - cron: '0 */12 * * *'  # Runs every 12 hours (UTC)
+  workflow_dispatch:        # Allows manual triggering from the GitHub Actions tab
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Critical: Allows the bot to push JSON changes back to the repo
     permissions:
-      contents: write       # Important: Allows the bot to save the JSON back to the repo
+      contents: write  
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Fetches all history so git pull/push works smoothly
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,6 +34,14 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add spot_vol_data.json
-          git commit -m "Auto-update: $(date)" || echo "No changes to commit"
+          
+          # Stage the cumulative file and the entire daily_stats folder
+          git add spot_vol_data.json daily_stats/
+          
+          # Pull latest changes from remote to handle manual runs and avoid conflicts
+          git pull --rebase origin main
+          
+          # Commit only if there are changes
+          git commit -m "Auto-update stats: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          
           git push
