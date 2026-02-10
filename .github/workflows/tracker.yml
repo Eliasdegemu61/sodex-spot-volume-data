@@ -1,17 +1,49 @@
-- name: Commit and Push changes
+name: Sodex Trade Tracker
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:        # Allows you to click a button to run it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # Allows the bot to write the JSON files back to your repository
+    permissions:
+      contents: write  
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Fetches history so pull/rebase works correctly
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Tracker
+        run: python main.py
+
+      - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 1. Stage the changes first
+          # 1. Stage the cumulative file and the daily_stats folder
           git add spot_vol_data.json daily_stats/
           
-          # 2. Commit them locally
+          # 2. Commit the changes locally
           git commit -m "Auto-update stats: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           
-          # 3. Now pull from remote to merge any manual changes you made elsewhere
-          # --rebase keeps the history clean; 'strategy-option=theirs' favors the bot if there's a conflict
+          # 3. Pull latest from GitHub to merge with any manual runs you did
+          # This prevents the "rejected" error if you pushed from your PC
           git pull --rebase origin main
           
-          # 4. Finally push
+          # 4. Push the final result
           git push
