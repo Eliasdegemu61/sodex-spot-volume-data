@@ -1,23 +1,23 @@
 {
   "0x81A856c650d8D94cf9Bc72B5104a2E3dfDA21A60": {
-    "total_volume": 1786.0236,
-    "today_added_volume": 0.0
+    "total_volume": 1819.5565,
+    "today_added_volume": 33.5329
   },
   "0x8500C7C7B0b2Ef8a27396a6e1f17cd8C62962D91": {
-    "total_volume": 183.44240200000002,
-    "today_added_volume": 0.0
+    "total_volume": 184.43985600000002,
+    "today_added_volume": 0.9974540000000001
   },
   "0x3d4595C8742d0a58173a9963c05755B59A8f8255": {
-    "total_volume": 443113.6113601975,
-    "today_added_volume": 0.0
+    "total_volume": 443123.1287501975,
+    "today_added_volume": 9.517389999999999
   },
   "0xAf691D198a8544E3902F5AadD1FdFc5200fac225": {
     "total_volume": 454.68268654999997,
     "today_added_volume": 10.4107
   },
   "0x002eCcA6f1c1c1989105ab4b06f3Cb7ca832dFb7": {
-    "total_volume": 199.14909796000003,
-    "today_added_volume": 0.0
+    "total_volume": 208.53203796000003,
+    "today_added_volume": 9.38294
   },
   "0x4B16ce4Edb6BFEa22Aa087fB5CB3CfD654ca99f5": {
     "total_volume": 2894749.6393629992,
@@ -44,8 +44,8 @@
     "today_added_volume": 0.0
   },
   "0x5aB486c9Cd3513A20FD27907C5E57A78FDF25c9c": {
-    "total_volume": 13449.559849570009,
-    "today_added_volume": 0.0
+    "total_volume": 13500.069509570008,
+    "today_added_volume": 50.50966
   },
   "0x2EA4882744dc9317C81E52d6f7BF046F7C258F94": {
     "total_volume": 9.9958662,
@@ -68,8 +68,8 @@
     "today_added_volume": 0.0
   },
   "0xFA312871af0b5369c1e479ac8f4D87CE575e9443": {
-    "total_volume": 2833.0686760000003,
-    "today_added_volume": 0.0
+    "total_volume": 2883.0515750000004,
+    "today_added_volume": 49.982899
   },
   "0x0c2Fa51EA4Fa759a90D8456CAB2EeC31CcCEB8e2": {
     "total_volume": 166.86142199999998,
@@ -128,8 +128,8 @@
     "today_added_volume": 0.0
   },
   "0xd222372f76D5558feC78aca73AD6f4CE81133a06": {
-    "total_volume": 21896.24038000002,
-    "today_added_volume": 0.0
+    "total_volume": 22022.36140000002,
+    "today_added_volume": 126.12102
   },
   "0x6a6DEF20b95c180a77fAb7A244a76454Dbf33259": {
     "total_volume": 176.181131,
@@ -140,8 +140,8 @@
     "today_added_volume": 0.0
   },
   "0xD5d4B8A629086a52345491a4E8164aF88154c1eE": {
-    "total_volume": 127577.89970800029,
-    "today_added_volume": 0.0
+    "total_volume": 127599.28650100029,
+    "today_added_volume": 21.386793000000004
   },
   "0x61eb0d5C2009B298d7920F261E5C41D20d448D21": {
     "total_volume": 50.785754,
@@ -156,8 +156,8 @@
     "today_added_volume": 0.0
   },
   "0x6f99cfcD97A86b5dac4542aB5b2a2aF8a9CbF567": {
-    "total_volume": 50419.13198022999,
-    "today_added_volume": 0.0
+    "total_volume": 50560.80646022999,
+    "today_added_volume": 141.67448
   },
   "0x7fE838D671351D644564b5eD3FC9060C7a305161": {
     "total_volume": 100.57918000000001,
@@ -324,8 +324,8 @@
     "today_added_volume": 0.0
   },
   "0x592B9943F7C723828703720Ad8050eA3CFbDbB9B": {
-    "total_volume": 4822.486334000002,
-    "today_added_volume": 1685.8708280000003
+    "total_volume": 6298.124614000002,
+    "today_added_volume": 3161.509108
   },
   "0xdD0106514ef84c618fA71A9309fa3b46ED6C3F1F": {
     "total_volume": 20024.450400000005,
@@ -524,8 +524,8 @@
     "today_added_volume": 0.0
   },
   "0x8BC391015B219A08eB6831A09DF2C3BBca8BA41E": {
-    "total_volume": 8358.865216,
-    "today_added_volume": 2162.250082
+    "total_volume": 8482.906226000001,
+    "today_added_volume": 2286.291092
   },
   "0xfEbae8100A833c481250fdFb08db567216E15357": {
     "total_volume": 40.732366,
@@ -536,8 +536,8 @@
     "today_added_volume": 0.0
   },
   "0x778E3d435dB21144743f7e6050975E592B9E20b9": {
-    "total_volume": 11.229176,
-    "today_added_volume": 0.0
+    "total_volume": 43.139496,
+    "today_added_volume": 31.91032
   },
   "0x00399D481a9075742c488d4FB9A226e33C97D6dF": {
     "total_volume": 157986.2732010002,
@@ -556,8 +556,8 @@
     "today_added_volume": 0.0
   },
   "0x16E6d4Fd272Db4a634cC451A5A7F3d863ae60380": {
-    "total_volume": 28690.876356000026,
-    "today_added_volume": 0.0
+    "total_volume": 28709.019375000025,
+    "today_added_volume": 18.143019000000002
   },
   "0xEE55583cE4F64791B30451156F1141fcEA0aaE04": {
     "total_volume": 740.6066109999999,
@@ -644,8 +644,8 @@
     "today_added_volume": 429.71763999999996
   },
   "0x1F446dFa225D5c9e8A80cD227bF57444FC141332": {
-    "total_volume": 18401846.351212613,
-    "today_added_volume": 64846.60058499998
+    "total_volume": 18499986.316387612,
+    "today_added_volume": 162986.56576000003
   },
   "0xeC3d62daF846c338FF5025CF8fbd385b9d350c6F": {
     "total_volume": 244.5969,
@@ -700,8 +700,8 @@
     "today_added_volume": 0.0
   },
   "0xb934EB9853550a52894765C2E0598F36bDcdFe57": {
-    "total_volume": 131.07296,
-    "today_added_volume": 0.0
+    "total_volume": 154.73149999999998,
+    "today_added_volume": 23.658540000000002
   },
   "0x91a513FFf0EE2fE0AD3d0a2c86b318819992Ee2f": {
     "total_volume": 37.1562,
@@ -784,8 +784,8 @@
     "today_added_volume": 0.0
   },
   "0x68f1E614B189A45E410731aB7E501aA6819F3d1e": {
-    "total_volume": 9.98112,
-    "today_added_volume": 0.0
+    "total_volume": 164.36788800000002,
+    "today_added_volume": 154.38676800000002
   },
   "0x82701FdE7CC4CDB443Ec51057cEc0A5bFab5e7a8": {
     "total_volume": 85791.76948499991,
@@ -812,8 +812,8 @@
     "today_added_volume": 0.0
   },
   "0x6ad073634C57118D0a988C690BE6ddF7046e4E74": {
-    "total_volume": 14539.86519000001,
-    "today_added_volume": 0.0
+    "total_volume": 14549.086120000009,
+    "today_added_volume": 9.220930000000001
   },
   "0x25A04Bc7379FAAbc0bE0421DA74191ea51713c8c": {
     "total_volume": 1662.2628120000002,
@@ -872,8 +872,8 @@
     "today_added_volume": 0.0
   },
   "0x92A8d75F6e0F47128A60aA03F5D52Ca2Ae2A3c12": {
-    "total_volume": 13481.383893000007,
-    "today_added_volume": 0.0
+    "total_volume": 15333.006893000007,
+    "today_added_volume": 1851.6229999999998
   },
   "0x0786D3fdCa66DCC25a31AD9f4419909bAa15CE4a": {
     "total_volume": 21.627200000000002,
@@ -920,8 +920,8 @@
     "today_added_volume": 20.25933
   },
   "0x41c7030e13d664B96b05461D8D7D508218246299": {
-    "total_volume": 14213.913917999998,
-    "today_added_volume": 0.0
+    "total_volume": 16213.566467999999,
+    "today_added_volume": 1999.65255
   },
   "0xfEE14894eF94062A10baA61109ced714b5850A73": {
     "total_volume": 23.906354,
@@ -1116,8 +1116,8 @@
     "today_added_volume": 0.0
   },
   "0x572b57DD925B21fAcd1974850012915ab58b5101": {
-    "total_volume": 109.622808,
-    "today_added_volume": 0.0
+    "total_volume": 135.087156,
+    "today_added_volume": 25.464348
   },
   "0x9D16F9D43DC48635eb50fc38BC6053BC2A648026": {
     "total_volume": 22.95573,
@@ -1240,8 +1240,8 @@
     "today_added_volume": 104.28130999999999
   },
   "0x70Ea88E8cDBe64225Cdc002C518F7Da333AAd346": {
-    "total_volume": 49.631699999999995,
-    "today_added_volume": 0.0
+    "total_volume": 176.13128999999998,
+    "today_added_volume": 126.49959
   },
   "0xb3AEe9e08C333D59406e56959cd63727Cb5aaE5F": {
     "total_volume": 45.25643,
@@ -1260,8 +1260,8 @@
     "today_added_volume": 0.0
   },
   "0x8e9B32b1704786a8A51E89a5d7C1Fa21F5317a91": {
-    "total_volume": 330.780478,
-    "today_added_volume": 20.006999999999998
+    "total_volume": 340.620478,
+    "today_added_volume": 29.846999999999998
   },
   "0xfc37f1EE234d8037Fb7b37b1fC346D0B9F880d07": {
     "total_volume": 53365.56815000006,
@@ -1308,8 +1308,8 @@
     "today_added_volume": 0.0
   },
   "0x96c475f6dBfD140DD21365FD2c7d143a47cD5476": {
-    "total_volume": 2595300.594838496,
-    "today_added_volume": 5721.348466
+    "total_volume": 2604669.913631496,
+    "today_added_volume": 15090.667259000002
   },
   "0xd0b811b909afFd5B7F3e1201D450DA173796B7fB": {
     "total_volume": 47.123599999999996,
@@ -1572,8 +1572,8 @@
     "today_added_volume": 0.0
   },
   "0xf4B635a578F34B0f4d22ec7923E1A9F15A964e1B": {
-    "total_volume": 176.289962,
-    "today_added_volume": 38.1113
+    "total_volume": 195.496562,
+    "today_added_volume": 57.317899999999995
   },
   "0xF5B5f11cfD5f10552614FD88c368720B54660a86": {
     "total_volume": 10.17,
@@ -1664,12 +1664,12 @@
     "today_added_volume": 0.0
   },
   "0xeeB45b46D7Bd394721AC4aC5cD52f1884756c74C": {
-    "total_volume": 2625.197224,
-    "today_added_volume": 0.0
+    "total_volume": 2833.026724,
+    "today_added_volume": 207.82949999999997
   },
   "0x05D922C31030cdb2DFFB1cbb5f3828996B8fe146": {
-    "total_volume": 56.07282,
-    "today_added_volume": 0.0
+    "total_volume": 70.074053,
+    "today_added_volume": 14.001233000000001
   },
   "0x9E444333bCe9b5784559835e8a8514aB85B546C1": {
     "total_volume": 74.742625,
@@ -1728,12 +1728,12 @@
     "today_added_volume": 0.0
   },
   "0xcba952D820603742626703E7Ce636B71BfDfa7dB": {
-    "total_volume": 24.883426,
-    "today_added_volume": 0.0
+    "total_volume": 61.312176,
+    "today_added_volume": 36.42875
   },
   "0x82934f6906bcbe630Bf5b09a738BA8F8a133E843": {
-    "total_volume": 178.10677,
-    "today_added_volume": 0.0
+    "total_volume": 199.71893,
+    "today_added_volume": 21.612160000000003
   },
   "0xB423d3a72b25A5167A141F066B579cC1b3B10484": {
     "total_volume": 474.91063,
@@ -1944,8 +1944,8 @@
     "today_added_volume": 0.0
   },
   "0xa898F863a12d8f4ac75aa5C47F0542FEaD42f78b": {
-    "total_volume": 68861.38767156,
-    "today_added_volume": 0.0
+    "total_volume": 72228.56668156001,
+    "today_added_volume": 3367.17901
   },
   "0x5Af2A8Eba93b54E69991C0AaD0d23AeDD40d9BD6": {
     "total_volume": 9785.203931999997,
@@ -2072,8 +2072,8 @@
     "today_added_volume": 0.0
   },
   "0x520DFE25545839C916c02Ce773D3a9E17dFf4023": {
-    "total_volume": 3331.1941039999997,
-    "today_added_volume": 98.16070300000001
+    "total_volume": 3488.254321,
+    "today_added_volume": 255.22092000000004
   },
   "0x7B96Afc8dde942481acA540b3FF04a51dA474385": {
     "total_volume": 17.22138,
@@ -2152,8 +2152,8 @@
     "today_added_volume": 0.0
   },
   "0x5ac86A1e8F26b6A9A14f494f10c211695774c68c": {
-    "total_volume": 8140.623364000001,
-    "today_added_volume": 2707.1294880000005
+    "total_volume": 13514.347124000002,
+    "today_added_volume": 8080.853248000001
   },
   "0x0485E6C3B6412Ff718f1c8Bf813a21F1523aF271": {
     "total_volume": 4.997775,
@@ -2268,12 +2268,12 @@
     "today_added_volume": 0.0
   },
   "0xBB4151549EfCd2Eb9E089bDdAc4108fb700EC1Ac": {
-    "total_volume": 9223.002343000004,
-    "today_added_volume": 0.0
+    "total_volume": 9491.398803000004,
+    "today_added_volume": 268.39646
   },
   "0xf068fFA82085A05Ad756940827789e31CD90c037": {
-    "total_volume": 38.74499999999999,
-    "today_added_volume": 0.0
+    "total_volume": 64.90736999999999,
+    "today_added_volume": 26.16237
   },
   "0xA6830E239B7234475a4c9BaaE5f03eE753597593": {
     "total_volume": 11.139198,
@@ -2392,8 +2392,8 @@
     "today_added_volume": 0.0
   },
   "0xFA34D2F0DF004E9473daC3C996a3693ae37e7525": {
-    "total_volume": 2941.90105,
-    "today_added_volume": 0.0
+    "total_volume": 4055.695100000001,
+    "today_added_volume": 1113.7940500000007
   },
   "0x6EB7F3a33761822fE597E4D8688f102F3E8E664D": {
     "total_volume": 616.195054,
@@ -2548,8 +2548,8 @@
     "today_added_volume": 0.0
   },
   "0xd33c4c5f5876506D0172c03feE7cE94E78233AF4": {
-    "total_volume": 16000.69446300002,
-    "today_added_volume": 0.0
+    "total_volume": 16235.570331000019,
+    "today_added_volume": 234.875868
   },
   "0xfFD1Ad19d2c57971f19967c7A190FFE945Ee6793": {
     "total_volume": 412.7457460000001,
@@ -2580,8 +2580,8 @@
     "today_added_volume": 0.0
   },
   "0x742D92cCf5d090a88BFeC13775109CAa105E6309": {
-    "total_volume": 174.70283254,
-    "today_added_volume": 0.0
+    "total_volume": 177.22293254000002,
+    "today_added_volume": 2.5201
   },
   "0xbBd15260483b70A5889ae9Ba106cbFDf23D857D3": {
     "total_volume": 154.975657,
@@ -2636,8 +2636,8 @@
     "today_added_volume": 0.0
   },
   "0xd16A653a545Fce9117D1D9AF1803D1B5c57022dF": {
-    "total_volume": 332.109447,
-    "today_added_volume": 0.0
+    "total_volume": 810.4567870000001,
+    "today_added_volume": 478.34734000000003
   },
   "0x557AE2b2A7a06394B0efeE4289622B81Da311c5B": {
     "total_volume": 12834.321177000016,
@@ -2812,8 +2812,8 @@
     "today_added_volume": 0.0
   },
   "0x2B8A5cA44a3497E1B809a97751dC4466ff95d6fc": {
-    "total_volume": 826.516027,
-    "today_added_volume": 0.0
+    "total_volume": 844.32714,
+    "today_added_volume": 17.811113
   },
   "0x8DF63648db5D47cba5d568Afe4D243A9a34143f6": {
     "total_volume": 52.08389,
@@ -3136,8 +3136,8 @@
     "today_added_volume": 9.299348
   },
   "0x91d4b1a76AF9D8bDb1215dCE04a3Eb27F70C4677": {
-    "total_volume": 51.068951000000006,
-    "today_added_volume": 0.0
+    "total_volume": 56.175917000000005,
+    "today_added_volume": 5.106966
   },
   "0x436ECA3e33b65658c951820692A1b4b248E5F892": {
     "total_volume": 97.65038000000001,
@@ -3192,8 +3192,8 @@
     "today_added_volume": 0.0
   },
   "0x01C0566c4A58Ba698A5293C6ECCC693bAcaad59B": {
-    "total_volume": 6957.267411629993,
-    "today_added_volume": 228.978204
+    "total_volume": 7211.019114629993,
+    "today_added_volume": 482.729907
   },
   "0x1b1ad412c107c7732e2328923385090F1bF3E3Da": {
     "total_volume": 2935.0535690000006,
@@ -3212,8 +3212,8 @@
     "today_added_volume": 0.0
   },
   "0x63128fe484C55be5E4928e6e824401EF3eb0AbF4": {
-    "total_volume": 1669.7248999999988,
-    "today_added_volume": 0.0
+    "total_volume": 3463.2735189999994,
+    "today_added_volume": 1793.5486190000006
   },
   "0xB5A91ba2D08760e1C81Cc289cd356AF0144FCC34": {
     "total_volume": 49.068799999999996,
@@ -3312,8 +3312,8 @@
     "today_added_volume": 0.0
   },
   "0xc935a6d4D7119E5a226A50791282495D11106485": {
-    "total_volume": 231.610802,
-    "today_added_volume": 24.20022
+    "total_volume": 270.324372,
+    "today_added_volume": 62.91379
   },
   "0x530A744deE3e6Bec0E619fF1f2E5D9Fe600E327f": {
     "total_volume": 10.01813,
@@ -3324,8 +3324,8 @@
     "today_added_volume": 0.0
   },
   "0xE049c9b26c7F26f7a20BCE5E7fb0b1FD2B26E002": {
-    "total_volume": 90442.70214738997,
-    "today_added_volume": 0.0
+    "total_volume": 90536.25201738997,
+    "today_added_volume": 93.54987000000001
   },
   "0xbaB0CcBeDc132c5C4eA66DfE766917e8bA196Ec3": {
     "total_volume": 2821.6262479999996,
@@ -3344,12 +3344,12 @@
     "today_added_volume": 0.0
   },
   "0x12849dF812BC5D5f759E69Dd615576F45c141814": {
-    "total_volume": 855.1880202100002,
-    "today_added_volume": 10.506467999999998
+    "total_volume": 876.2883482100002,
+    "today_added_volume": 31.606796
   },
   "0x511145C926Ae396B26Dc6222e1C0EbE7e7e79d72": {
-    "total_volume": 15022.11669602997,
-    "today_added_volume": 148.05908
+    "total_volume": 15045.00523602997,
+    "today_added_volume": 170.94762
   },
   "0xc6bfA27dE145685d435A4ac8651e678a97B5fbb5": {
     "total_volume": 1075.8054400000003,
@@ -3368,8 +3368,8 @@
     "today_added_volume": 0.0
   },
   "0x0d888DF6F506EBBeA045FE7E27ba1E161435e642": {
-    "total_volume": 1109.5800699999993,
-    "today_added_volume": 0.0
+    "total_volume": 1185.5565299999994,
+    "today_added_volume": 75.97645999999999
   },
   "0x2c6DF3be10FBc6878CBc911dCb1Fd2DaB61764ed": {
     "total_volume": 8233.606689829996,
@@ -3396,8 +3396,8 @@
     "today_added_volume": 0.0
   },
   "0x2a1d54B133D5b25b1A39def0F4Fad638eA2278C2": {
-    "total_volume": 40.402056,
-    "today_added_volume": 0.0
+    "total_volume": 1485.413031999999,
+    "today_added_volume": 1445.0109759999991
   },
   "0xf1f82c6297B93868AdB19Ac6B9F573a9CD8B5643": {
     "total_volume": 986.8710209999999,
@@ -3564,8 +3564,8 @@
     "today_added_volume": 0.0
   },
   "0x9C1C3484EbC79A5543A3aD193573eb0250756E55": {
-    "total_volume": 16681.350450000024,
-    "today_added_volume": 0.0
+    "total_volume": 19423.290960000024,
+    "today_added_volume": 2741.9405099999994
   },
   "0x8D3F50288e1C216435fCcebCAcF953A665BCd900": {
     "total_volume": 6.692069999999999,
@@ -3676,8 +3676,8 @@
     "today_added_volume": 0.0
   },
   "0x57c8F19E7C7A0a4f809db9359513765Ee692b57f": {
-    "total_volume": 7229.2264756600025,
-    "today_added_volume": 0.0
+    "total_volume": 7275.205267660002,
+    "today_added_volume": 45.978792
   },
   "0x767235CCEEf614F2B5653B41A9D120Af3a8bFF1e": {
     "total_volume": 147.9644,
@@ -3800,8 +3800,8 @@
     "today_added_volume": 595.756906
   },
   "0x7d22875f5A5C4186CD7083D3e5cbEb8F72E5611b": {
-    "total_volume": 913.9455419999999,
-    "today_added_volume": 0.0
+    "total_volume": 933.9163169999999,
+    "today_added_volume": 19.970775
   },
   "0x2B10706125EE979bCc7E158f01eCa80a287EdCe7": {
     "total_volume": 238.12361399999998,
@@ -3816,8 +3816,8 @@
     "today_added_volume": 0.0
   },
   "0xd9f385EEC71d3eEa20433C00e0A63d9283822Dc3": {
-    "total_volume": 1003.076078,
-    "today_added_volume": 163.37956200000002
+    "total_volume": 1576.1231579999999,
+    "today_added_volume": 736.4266419999999
   },
   "0x3F3d0c9Cf53227E24621dAb8F353bc52936B5D2D": {
     "total_volume": 38.266161000000004,
@@ -4272,8 +4272,8 @@
     "today_added_volume": 0.0
   },
   "0x1421324707f7aFD4aB89412f710b128209251b49": {
-    "total_volume": 17174.643969999997,
-    "today_added_volume": 0.0
+    "total_volume": 18173.286679999997,
+    "today_added_volume": 998.6427100000002
   },
   "0xC38F9064aE3e84627ac467447Ab16CCB6218413B": {
     "total_volume": 1121.0140480000002,
@@ -4372,8 +4372,8 @@
     "today_added_volume": 0.0
   },
   "0xD6C033F42dEAAe6Ef097D7378348b3eAd95A826A": {
-    "total_volume": 20531.14917700013,
-    "today_added_volume": 180.21003499999995
+    "total_volume": 20716.233303000132,
+    "today_added_volume": 365.29416100000003
   },
   "0x7bBFe2d32eb5C962Fd9a4C0885dD62cE19f6cd83": {
     "total_volume": 19.2932,
@@ -4512,8 +4512,8 @@
     "today_added_volume": 0.0
   },
   "0x4A362D7dE010b2B69d751d1B3B43bfE43c488B1b": {
-    "total_volume": 759.485686,
-    "today_added_volume": 0.0
+    "total_volume": 831.787809,
+    "today_added_volume": 72.30212300000001
   },
   "0xd61CD5F15e6D36611EA5C2f519591DC71478cCf7": {
     "total_volume": 198.378348,
@@ -4544,8 +4544,8 @@
     "today_added_volume": 0.0
   },
   "0xF7256bc6e47CbF5071063594911417f968dF3C54": {
-    "total_volume": 25349.621682999994,
-    "today_added_volume": 0.0
+    "total_volume": 25496.033128999992,
+    "today_added_volume": 146.41144600000004
   },
   "0x0e44537182224d51AB659ae414073674724e3292": {
     "total_volume": 6.294288,
@@ -4564,8 +4564,8 @@
     "today_added_volume": 0.0
   },
   "0xAEF44F7Cbb54326f8cea0bF27EfD02d2515f8C43": {
-    "total_volume": 8279.786459,
-    "today_added_volume": 0.0
+    "total_volume": 11608.097223,
+    "today_added_volume": 3328.3107640000003
   },
   "0x00C58d97AC62A93b42afAef0746d0b1989E7225f": {
     "total_volume": 92545.01709999998,
@@ -5624,8 +5624,8 @@
     "today_added_volume": 0.0
   },
   "0x78FE092b836ae9eE0944235aD83C77FAbB524f4C": {
-    "total_volume": 65.66862,
-    "today_added_volume": 0.0
+    "total_volume": 95.45887,
+    "today_added_volume": 29.790249999999997
   },
   "0xEce9F05024DD9571B10abEdadd6C5A133F2b2e1B": {
     "total_volume": 397.85510000000005,
@@ -8524,8 +8524,8 @@
     "today_added_volume": 0.0
   },
   "0xC18Ad568ca95856f293be2071050e25b7eE0f7b7": {
-    "total_volume": 23619.619990999996,
-    "today_added_volume": 150.917
+    "total_volume": 23806.773736999996,
+    "today_added_volume": 338.070746
   },
   "0xDd8bEA5CB7234436F0Cca3FbDAdA88D62f45C5b8": {
     "total_volume": 13.47526,
@@ -8688,8 +8688,8 @@
     "today_added_volume": 0.0
   },
   "0x00FCf1853cA1940cC1A742FD75d0a1Ddccd3ea10": {
-    "total_volume": 1707.1114860000002,
-    "today_added_volume": 33.201908
+    "total_volume": 1806.6598110000002,
+    "today_added_volume": 132.75023299999998
   },
   "0xC11606F31Aa9fc52CA09e5687c7d740120a65C0B": {
     "total_volume": 8.99505,
@@ -9084,8 +9084,8 @@
     "today_added_volume": 0.0
   },
   "0xdB21B70F9384ac4A3260A8566B37Be52f393F193": {
-    "total_volume": 6189.7877400000025,
-    "today_added_volume": 576.8729899999997
+    "total_volume": 6699.405760000002,
+    "today_added_volume": 1086.4910099999997
   },
   "0x5B534cc0879862Cb61be98317C664fd65520e856": {
     "total_volume": 65.07629,
@@ -9460,8 +9460,8 @@
     "today_added_volume": 0.0
   },
   "0x4d7D678b58daf62caA2e9d9263CB67B3b8631bC1": {
-    "total_volume": 1935.4709340700003,
-    "today_added_volume": 0.0
+    "total_volume": 1959.3333140700004,
+    "today_added_volume": 23.86238
   },
   "0x1Da6518Ff92d077a6257f7C91BAb4aa2a8667a4a": {
     "total_volume": 120.503809,
@@ -11440,8 +11440,8 @@
     "today_added_volume": 0.0
   },
   "0x257DEE3E2405ca536514d4Bb8377a79780965970": {
-    "total_volume": 10.538340999999999,
-    "today_added_volume": 0.0
+    "total_volume": 89.82546500000001,
+    "today_added_volume": 79.287124
   },
   "0x00757438f320d3e53AcC25B168361a9F7e66d17D": {
     "total_volume": 40.991734,
@@ -11736,8 +11736,8 @@
     "today_added_volume": 0.0
   },
   "0xDda48E5eC26b833c04c1A50E49c430487CE23E14": {
-    "total_volume": 329.97804699999995,
-    "today_added_volume": 0.0
+    "total_volume": 349.64204699999993,
+    "today_added_volume": 19.664
   },
   "0xEA96c47edAE939434B557609Df7012E85dFDA8E4": {
     "total_volume": 12.349,
@@ -11888,8 +11888,8 @@
     "today_added_volume": 0.0
   },
   "0xBAD8505c0Ff2AaFA9993dcc36Bec440001DECc0B": {
-    "total_volume": 8528.262438000002,
-    "today_added_volume": 1185.3494560000004
+    "total_volume": 9479.576311,
+    "today_added_volume": 2136.663329
   },
   "0xF911eF0360437ec90951C6b1c88a3a7685140c46": {
     "total_volume": 248.10608100000005,
@@ -12364,8 +12364,8 @@
     "today_added_volume": 0.0
   },
   "0xAc741A914AcbDC6B9d006EeEecA436ec9855cD3A": {
-    "total_volume": 2082.6048650000002,
-    "today_added_volume": 0.0
+    "total_volume": 2666.5968940000002,
+    "today_added_volume": 583.992029
   },
   "0x1eE3132dFAC1d677B8B3Fe8CF95409dB084Ee255": {
     "total_volume": 25.874464000000003,
@@ -12404,8 +12404,8 @@
     "today_added_volume": 0.0
   },
   "0xd70A41E8EF3B44e0cD95B81CFcF79A7116e3C6f0": {
-    "total_volume": 30065.458392000015,
-    "today_added_volume": 700.8734399999998
+    "total_volume": 31458.294692000014,
+    "today_added_volume": 2093.7097400000002
   },
   "0xadcF37beEE88f9BD155c95f6B29757a850C0eB10": {
     "total_volume": 2402.70334,
@@ -12440,8 +12440,8 @@
     "today_added_volume": 0.0
   },
   "0xa4627b4917355a0e94ED917657c62b21fDBb1E68": {
-    "total_volume": 580.073378,
-    "today_added_volume": 0.0
+    "total_volume": 1097.1065930000002,
+    "today_added_volume": 517.0332150000002
   },
   "0x6B1321Fd0b8767C25B825927141A466211B8344f": {
     "total_volume": 19.49173,
@@ -12652,8 +12652,8 @@
     "today_added_volume": 0.0
   },
   "0x1235b88C892A030db462051534a1bc82064fC424": {
-    "total_volume": 1335.41951,
-    "today_added_volume": 1250.42851
+    "total_volume": 1440.92651,
+    "today_added_volume": 1355.93551
   },
   "0x99daE7af846f5855E1Ed0d40ce28745B7f607842": {
     "total_volume": 3511.6764900000016,
@@ -12672,8 +12672,8 @@
     "today_added_volume": 0.0
   },
   "0xeCE5EfD61b55f8369C7A42129D507Eb347792487": {
-    "total_volume": 968.7612050000001,
-    "today_added_volume": 0.0
+    "total_volume": 976.1347250000001,
+    "today_added_volume": 7.37352
   },
   "0x2b0c015879Ce6AC5628E32Adf977D830e075B7Ef": {
     "total_volume": 209.029878,
@@ -12716,8 +12716,8 @@
     "today_added_volume": 0.0
   },
   "0x0eEa322a5dCDD6964B2F461c82419E33853440ad": {
-    "total_volume": 1981.7301690000002,
-    "today_added_volume": 140.76146
+    "total_volume": 2123.272849,
+    "today_added_volume": 282.30414
   },
   "0xB90E2DA3F31b8527B3F50384Cd1eeb64ed2a24B2": {
     "total_volume": 18.873160999999996,
@@ -12948,8 +12948,8 @@
     "today_added_volume": 0.0
   },
   "0x6fe304A98415BA74a87a52135dcC329b667d5e42": {
-    "total_volume": 231.4574,
-    "today_added_volume": 0.0
+    "total_volume": 264.86566,
+    "today_added_volume": 33.40826
   },
   "0xD23E5D6a6022Fdd32566F47F2A3Ddc3c8E9fe804": {
     "total_volume": 185.10685999999998,
@@ -12996,8 +12996,8 @@
     "today_added_volume": 0.0
   },
   "0x73f9909e5E6282bc588F5a0cd1DDf120ADB12EAF": {
-    "total_volume": 1428.1066779999999,
-    "today_added_volume": 0.0
+    "total_volume": 1830.388008,
+    "today_added_volume": 402.28132999999997
   },
   "0x70ce0539682e5559Ee26FEfE4958d4bfCD1dD446": {
     "total_volume": 37.31916,
@@ -13012,8 +13012,8 @@
     "today_added_volume": 0.0
   },
   "0xdB40E21DC62368De11C69151bCAde4c97F3bA982": {
-    "total_volume": 1269.6659071900003,
-    "today_added_volume": 0.0
+    "total_volume": 1321.5119271900003,
+    "today_added_volume": 51.84602
   },
   "0xf23c9661efbCBd808AC31BA7B6CAfd8dcbAFB403": {
     "total_volume": 144.275059,
@@ -13100,8 +13100,8 @@
     "today_added_volume": 0.0
   },
   "0xC1A55718d9b4238bC5B703dC43568a50A14C2446": {
-    "total_volume": 164.98101,
-    "today_added_volume": 0.0
+    "total_volume": 177.59439,
+    "today_added_volume": 12.613380000000001
   },
   "0x7De66e4a513f69DD7d6caA8e630c3a0038cDAc30": {
     "total_volume": 128.089829,
@@ -13116,8 +13116,8 @@
     "today_added_volume": 137.16261799999998
   },
   "0xb56A5EAC1935c82789b1275FC9AfB210c989DDcc": {
-    "total_volume": 30953.616557999994,
-    "today_added_volume": 0.0
+    "total_volume": 31656.414270999994,
+    "today_added_volume": 702.797713
   },
   "0x283C1B6305099a3157cf31B5F1F87D7e2eDe8B60": {
     "total_volume": 164.885413,
@@ -13128,8 +13128,8 @@
     "today_added_volume": 0.0
   },
   "0xC2b69Cb3E50cF22CF0c5152B8839CA34188AF9c3": {
-    "total_volume": 97.52697799999999,
-    "today_added_volume": 0.0
+    "total_volume": 103.52431799999998,
+    "today_added_volume": 5.99734
   },
   "0x120274E58910D158469Da202F470B610779bfEf6": {
     "total_volume": 119.49421299999999,
@@ -13288,8 +13288,8 @@
     "today_added_volume": 0.0
   },
   "0x32948b7cFac764350f6B836d2ca386026eD6D6Ac": {
-    "total_volume": 10008.600107999997,
-    "today_added_volume": 0.0
+    "total_volume": 10219.764601999997,
+    "today_added_volume": 211.164494
   },
   "0x29a58dAb7deBa13CD07eEdCd273Ec1062C439fd3": {
     "total_volume": 526.0506270000001,
@@ -13300,8 +13300,8 @@
     "today_added_volume": 0.0
   },
   "0xF36e8b2f94bCcc05bEeE8bC3A2EF0Ca744D62f34": {
-    "total_volume": 459.62768000000005,
-    "today_added_volume": 0.0
+    "total_volume": 500.83013000000005,
+    "today_added_volume": 41.20245
   },
   "0xdFAEFdB83108aC53251002425FC1152D3a6B0d5e": {
     "total_volume": 22.9561,
@@ -13384,8 +13384,8 @@
     "today_added_volume": 0.0
   },
   "0x51FcdBEC4B5939636eE7F819f1c60DfBB77e2129": {
-    "total_volume": 2635.726489000001,
-    "today_added_volume": 0.0
+    "total_volume": 2654.782719000001,
+    "today_added_volume": 19.05623
   },
   "0x4F52B25AA67FDA52e14C7984e40C54598CA7cBAa": {
     "total_volume": 400.98730900000004,
@@ -13776,8 +13776,8 @@
     "today_added_volume": 0.0
   },
   "0xf24c2aacdD817B9DC752880b0Fc52f78619bf9B8": {
-    "total_volume": 7.947500000000001,
-    "today_added_volume": 0.0
+    "total_volume": 44.5567,
+    "today_added_volume": 36.6092
   },
   "0xfc7b749ED1B9fa99909c523d6F1d07c4cC589E60": {
     "total_volume": 14.094840000000001,
@@ -13804,8 +13804,8 @@
     "today_added_volume": 0.0
   },
   "0xC431864c97ad6EEDD04Eb0e24848e2a94dE168BE": {
-    "total_volume": 2266.8679119999993,
-    "today_added_volume": 0.0
+    "total_volume": 2285.480586999999,
+    "today_added_volume": 18.612675000000003
   },
   "0x6d3725c85899fd3Fd02354E0C9d3DB3856225828": {
     "total_volume": 25.882204,
@@ -14024,8 +14024,8 @@
     "today_added_volume": 0.0
   },
   "0x20c788DdB87f6A6B3be7dFe14DaA8D523a3c5280": {
-    "total_volume": 199.08032999999998,
-    "today_added_volume": 0.0
+    "total_volume": 599.9730699999999,
+    "today_added_volume": 400.89273999999995
   },
   "0xE0fbfd933b037F710f39099cb5632fc9593F9f11": {
     "total_volume": 2413.4346869999995,
@@ -14080,8 +14080,8 @@
     "today_added_volume": 0.0
   },
   "0xe91660ACBfdB6EA63dEB3Fb6be2043fE7FD01da5": {
-    "total_volume": 1183.267919,
-    "today_added_volume": 823.781284
+    "total_volume": 1509.564019,
+    "today_added_volume": 1150.0773840000002
   },
   "0x7a2194B0a0150661aC6c71f238A231DF891a001e": {
     "total_volume": 58.54589999999999,
@@ -14104,16 +14104,16 @@
     "today_added_volume": 0.0
   },
   "0xE7fd1197b65d33322d73a35cCce744FFE6d2633f": {
-    "total_volume": 204.782236,
-    "today_added_volume": 0.0
+    "total_volume": 255.080732,
+    "today_added_volume": 50.29849600000001
   },
   "0x6cdae22E206bE7bdA8BA6E24fF0b027F872E9EF0": {
     "total_volume": 1875.4630659999998,
     "today_added_volume": 0.0
   },
   "0x398959F6fD30269bAdbbC5acEe88dDdd7C86E6E5": {
-    "total_volume": 2547.87299,
-    "today_added_volume": 0.0
+    "total_volume": 4508.26322,
+    "today_added_volume": 1960.3902299999997
   },
   "0xcEEA7685307125d2e38B250d6dde58A69102Fc28": {
     "total_volume": 21628.05054,
@@ -14136,8 +14136,8 @@
     "today_added_volume": 112.767975
   },
   "0x8099A61C740BEc6C4667Cad7ee612D73D0fc664E": {
-    "total_volume": 189001.18529800008,
-    "today_added_volume": 0.0
+    "total_volume": 217923.3589980001,
+    "today_added_volume": 28922.173700000003
   },
   "0x5356c67e6A06b8FD320682446D803bA9a8c9699c": {
     "total_volume": 170.920701,
@@ -14240,8 +14240,8 @@
     "today_added_volume": 0.0
   },
   "0x8aDaF78b7F223Bf468cdea5cEd8b1469dE423AE9": {
-    "total_volume": 297.2809900000001,
-    "today_added_volume": 0.0
+    "total_volume": 592.9275600000001,
+    "today_added_volume": 295.64657000000005
   },
   "0xEa2FC2ED571daF216cd30FDD71f310109d6bb318": {
     "total_volume": 80.8965,
@@ -14280,8 +14280,8 @@
     "today_added_volume": 0.0
   },
   "0x60D7Bbdb557E148b26bAfcC193B5690490a0eb3B": {
-    "total_volume": 119.29451599999999,
-    "today_added_volume": 0.0
+    "total_volume": 347.103466,
+    "today_added_volume": 227.80895
   },
   "0xbdB26e51A0DCB13ce64C3b5C7A3dcdF58570a14a": {
     "total_volume": 70.84064599999999,
@@ -14316,12 +14316,12 @@
     "today_added_volume": 0.0
   },
   "0x046b22842Fe80f6F7b9bBF174E831D0d79ab00a3": {
-    "total_volume": 10459.167956000007,
-    "today_added_volume": 796.6030099999999
+    "total_volume": 10853.578022000007,
+    "today_added_volume": 1191.013076
   },
   "0x5128eAAb9fBB24E3Bac4de77F28BbC89c2e10DcD": {
-    "total_volume": 1265.2390141000005,
-    "today_added_volume": 0.0
+    "total_volume": 1329.9978961000006,
+    "today_added_volume": 64.758882
   },
   "0x903480D92d4567451cc9883A259F863F5D1c83e0": {
     "total_volume": 964.8374220000002,
@@ -14396,12 +14396,12 @@
     "today_added_volume": 0.0
   },
   "0x7485fcE09deAe374405CAA0797dEDE0978c4D2BA": {
-    "total_volume": 285.087161,
-    "today_added_volume": 0.0
+    "total_volume": 299.055299,
+    "today_added_volume": 13.968138
   },
   "0xe6630Ce6d3Dd0a6C2B8B6B25D2C6c648f7a15EA5": {
-    "total_volume": 23265.321010000014,
-    "today_added_volume": 3083.9738400000006
+    "total_volume": 23434.206150000013,
+    "today_added_volume": 3252.8589800000004
   },
   "0x6E52Cc37002AF613cc9c9EE0d54F00e1c09aA541": {
     "total_volume": 3238.1708600000015,
@@ -14656,8 +14656,8 @@
     "today_added_volume": 470.22882999999996
   },
   "0x5908D56d59c245EE17047330df5121423c2a23b7": {
-    "total_volume": 46.125544000000005,
-    "today_added_volume": 0.0
+    "total_volume": 65.24334400000001,
+    "today_added_volume": 19.117800000000003
   },
   "0x797d3A259710B9631E30ddb09b9143B61437290a": {
     "total_volume": 39.865857999999996,
@@ -14764,8 +14764,8 @@
     "today_added_volume": 5623.143487999997
   },
   "0x5a2C28Cced54A0A849d88b5248f2b39e7642a88c": {
-    "total_volume": 5635.2623319999975,
-    "today_added_volume": 156.587836
+    "total_volume": 5700.481647999997,
+    "today_added_volume": 221.807152
   },
   "0x9e60c00D23Ac481EF126e06E9b804d2D294E8A55": {
     "total_volume": 91.19304599999998,
@@ -14856,8 +14856,8 @@
     "today_added_volume": 0.0
   },
   "0x73af0A0dCbbE0d54f9fbb189a208A515D35430b0": {
-    "total_volume": 3772.699638000001,
-    "today_added_volume": 2477.3472200000006
+    "total_volume": 14807.867157999986,
+    "today_added_volume": 13512.514739999984
   },
   "0x7c263550178E9A09Aa202c21e6623B9225c3B16a": {
     "total_volume": 57.194599999999994,
@@ -14980,8 +14980,8 @@
     "today_added_volume": 0.0
   },
   "0x46A11e44f6E69A2B14E18973f541C36AE710a8B8": {
-    "total_volume": 2324.9010349999994,
-    "today_added_volume": 14.751018
+    "total_volume": 2398.3628559999993,
+    "today_added_volume": 88.212839
   },
   "0xaD5DBD9a843801164732353f8555A90db13dC0cd": {
     "total_volume": 797.3547799999999,
@@ -15028,8 +15028,8 @@
     "today_added_volume": 0.0
   },
   "0x4597f11D68Eb96De3bB7A561899D4494d22BFcAA": {
-    "total_volume": 96.162625,
-    "today_added_volume": 0.0
+    "total_volume": 106.1662,
+    "today_added_volume": 10.003575
   },
   "0x60D4fF6FcDC4e70d6DD7c7Fe20c051a6cD57F329": {
     "total_volume": 107.07416799999999,
@@ -15052,8 +15052,8 @@
     "today_added_volume": 0.0
   },
   "0xf336362e4e4174aEfeC878C885E55dFd51f74bAc": {
-    "total_volume": 380.99739,
-    "today_added_volume": 0.0
+    "total_volume": 483.39478199999996,
+    "today_added_volume": 102.397392
   },
   "0x603acE81e9afF547b516EeCc0AD2b126FCDDC5fE": {
     "total_volume": 124.7722,
@@ -15164,8 +15164,8 @@
     "today_added_volume": 0.0
   },
   "0x7b8133f51717e8A652EC13D87cdc0b02C493c705": {
-    "total_volume": 13211.941802,
-    "today_added_volume": 1824.5517900000002
+    "total_volume": 16744.446722,
+    "today_added_volume": 5357.05671
   },
   "0xDd7d8C65f08C52b9d9D83581255c903F585dAC63": {
     "total_volume": 229.56577,
@@ -15268,8 +15268,8 @@
     "today_added_volume": 0.0
   },
   "0xBc1BFA44BcA7afa91bAd1ADB09e3bbD13F1F53c9": {
-    "total_volume": 111220.88096799992,
-    "today_added_volume": 0.0
+    "total_volume": 111518.59414799993,
+    "today_added_volume": 297.71318
   },
   "0x4bdeFFaec4a17061284E7B5B07264e65315beCCb": {
     "total_volume": 17.796480000000003,
@@ -15280,8 +15280,8 @@
     "today_added_volume": 0.0
   },
   "0xBcf323F49dEe336D0605466aeD866Dd8BEC4b5E1": {
-    "total_volume": 113.5865,
-    "today_added_volume": 0.0
+    "total_volume": 246.90584,
+    "today_added_volume": 133.31934
   },
   "0x057c30b4C3f9a274D6Bcb491Fe4D8058c4a0Af6e": {
     "total_volume": 528.1276935000001,
@@ -15396,8 +15396,8 @@
     "today_added_volume": 0.0
   },
   "0x2dE42aF4a6ED1E9868c4508a60f29d2c7Ffa921f": {
-    "total_volume": 241.595717,
-    "today_added_volume": 0.0
+    "total_volume": 292.837317,
+    "today_added_volume": 51.2416
   },
   "0x1445753E5a3841f3C50B707C3F46eE71F7767Ced": {
     "total_volume": 20.51799,
@@ -15708,8 +15708,8 @@
     "today_added_volume": 0.0
   },
   "0x43C0329bD843281Fa3725e62116f92cEdC989802": {
-    "total_volume": 10393.382015000005,
-    "today_added_volume": 0.0
+    "total_volume": 11203.217255000005,
+    "today_added_volume": 809.8352399999999
   },
   "0xDc47B16f6FB388be40Fb60F861281e38B62441CF": {
     "total_volume": 30.17946,
@@ -15832,8 +15832,8 @@
     "today_added_volume": 0.0
   },
   "0xa2A4e5A41BaF1ACDa405aBC7A5f683d9Fbf3a5F0": {
-    "total_volume": 13.146820000000002,
-    "today_added_volume": 0.0
+    "total_volume": 61.432900000000004,
+    "today_added_volume": 48.28608
   },
   "0xA20e2797Ef529911Cf8a2b6432efE3DbC897Fb3D": {
     "total_volume": 11.84779,
@@ -15888,8 +15888,8 @@
     "today_added_volume": 0.0
   },
   "0x0FDdDbe21bEb0378EAf9Cfdc7D99a3a8Aa3Df340": {
-    "total_volume": 2070.022169999999,
-    "today_added_volume": 0.0
+    "total_volume": 2235.904239999999,
+    "today_added_volume": 165.88207
   },
   "0x073f9d8042C71Cf86793b1528b44760e6627bef7": {
     "total_volume": 66.080202,
@@ -15960,8 +15960,8 @@
     "today_added_volume": 0.0
   },
   "0x25415F18C80fedb7Baec70D609e5c6dE0A82981A": {
-    "total_volume": 78.754636,
-    "today_added_volume": 0.0
+    "total_volume": 94.34410100000001,
+    "today_added_volume": 15.589465
   },
   "0xec37da025E9C13C1c8A5dd2636f5F2d3df61eC6f": {
     "total_volume": 50.814919,
@@ -16004,8 +16004,8 @@
     "today_added_volume": 0.0
   },
   "0x84B403ab2EeD0e9cdb0712F2E5043734171113A3": {
-    "total_volume": 555.801119,
-    "today_added_volume": 62.920142999999996
+    "total_volume": 2522.231240000001,
+    "today_added_volume": 2029.3502640000013
   },
   "0x11C1D42F21573B6151A901D85f8675A6Ab253bF8": {
     "total_volume": 94.492824,
@@ -16060,8 +16060,8 @@
     "today_added_volume": 0.0
   },
   "0x373E4Ac44Df7aC47Be3e0A8576F98CE075534D41": {
-    "total_volume": 21177.80735999999,
-    "today_added_volume": 0.0
+    "total_volume": 21455.388549999992,
+    "today_added_volume": 277.58119
   },
   "0xF338b27B698D688408A05A03E88D21F807Cf965A": {
     "total_volume": 21278.764020000006,
@@ -16100,8 +16100,8 @@
     "today_added_volume": 0.0
   },
   "0x43f2346EeA4B9D7551987aEdA4978Acb0B904d7B": {
-    "total_volume": 61484.957180000056,
-    "today_added_volume": 61484.957180000056
+    "total_volume": 61497.050390000055,
+    "today_added_volume": 61497.050390000055
   },
   "0x3d9f2D545c0D2CDf28E416Cbb9AdAe4A289aDB5f": {
     "total_volume": 88.04814,
@@ -16292,32 +16292,32 @@
     "today_added_volume": 0.0
   },
   "0xF954248fa88B5d0720611f4edfDc53DcEc984454": {
-    "total_volume": 191.96823999999998,
-    "today_added_volume": 0.0
+    "total_volume": 211.57224,
+    "today_added_volume": 19.604000000000003
   },
   "0x9cA1892B68A0f54E342108f79d4068B7b0D06e42": {
-    "total_volume": 179.20612,
-    "today_added_volume": 0.0
+    "total_volume": 197.44063,
+    "today_added_volume": 18.23451
   },
   "0x86fF25a79DAc2a23dDe2cedffC2DeC96F4D8033A": {
-    "total_volume": 5103.861067,
-    "today_added_volume": 0.0
+    "total_volume": 5292.373729999999,
+    "today_added_volume": 188.51266299999997
   },
   "0xE366264D93b303c68077f4333Ce9892eBD6bcD28": {
     "total_volume": 339.501705,
     "today_added_volume": 0.0
   },
   "0xdc0b735554cB6930a203DeA1502D5746c8e75737": {
-    "total_volume": 178.81918000000002,
-    "today_added_volume": 0.0
+    "total_volume": 197.61406000000002,
+    "today_added_volume": 18.79488
   },
   "0x4f0d841212A8986c9310A1BB662cE568B18F2940": {
     "total_volume": 21248.497660000005,
     "today_added_volume": 0.0
   },
   "0x5D4491c1AC5c5915aa981eAd91039434Ac208b97": {
-    "total_volume": 184.43558000000002,
-    "today_added_volume": 0.0
+    "total_volume": 204.64006,
+    "today_added_volume": 20.20448
   },
   "0xc2f7d6B487A01d2703BeB39Bb645d69660cB6D9d": {
     "total_volume": 39.6804,
@@ -16328,12 +16328,12 @@
     "today_added_volume": 0.0
   },
   "0x768EE9E25Aa1D8F5D36C649D1E1D99D8565646eb": {
-    "total_volume": 224.64765,
-    "today_added_volume": 0.0
+    "total_volume": 251.56267,
+    "today_added_volume": 26.91502
   },
   "0x7fC663Ea0D509a53282b1B54249a6290388438A2": {
-    "total_volume": 195.14898999999997,
-    "today_added_volume": 0.0
+    "total_volume": 216.34722999999997,
+    "today_added_volume": 21.198240000000002
   },
   "0x8da1dAba67D8BB8Ac5D3aA7Ac1E6B54Afa272ed7": {
     "total_volume": 23.000137,
@@ -16384,8 +16384,8 @@
     "today_added_volume": 0.0
   },
   "0x8636Fae34dF922Cb2912F937339581A248d125fa": {
-    "total_volume": 5.847433,
-    "today_added_volume": 0.0
+    "total_volume": 21.093305,
+    "today_added_volume": 15.245872
   },
   "0x08dc2283Cd1Bb842ff45c737fC56A2cBC031c95B": {
     "total_volume": 1582.9950240000005,
@@ -16428,8 +16428,8 @@
     "today_added_volume": 15.097904
   },
   "0x6b0C4d447eB7CEbEDdb6aa4C26a191847546Ff2E": {
-    "total_volume": 330.576536,
-    "today_added_volume": 24.162954
+    "total_volume": 341.42782,
+    "today_added_volume": 35.014238
   },
   "0x31d6854f65564456286775FcbDf5B6EB852764E6": {
     "total_volume": 5.5908,
@@ -16448,8 +16448,8 @@
     "today_added_volume": 0.0
   },
   "0x409A071448624e04c258D0B806B613a073aDFF66": {
-    "total_volume": 6689.0502799999995,
-    "today_added_volume": 0.0
+    "total_volume": 12953.09291,
+    "today_added_volume": 6264.04263
   },
   "0x41CC025833dAA1eFCd9B43bF61495bF1563BdC5b": {
     "total_volume": 6656.555813000001,
@@ -16512,8 +16512,8 @@
     "today_added_volume": 0.0
   },
   "0xA2d93398e43DD7D11e011ab856556f0bD8eE42dF": {
-    "total_volume": 2564.265538,
-    "today_added_volume": 223.13737500000005
+    "total_volume": 2592.05516,
+    "today_added_volume": 250.92699700000006
   },
   "0xf533c8d49579021E9BedeE806CDcfD4bd5294E5e": {
     "total_volume": 21434.497420000014,
@@ -16936,8 +16936,8 @@
     "today_added_volume": 0.0
   },
   "0x58A2ddF82406e1048A08CC3C67E8ff0292c3F002": {
-    "total_volume": 129140.87057999999,
-    "today_added_volume": 0.0
+    "total_volume": 150644.35718,
+    "today_added_volume": 21503.48659999999
   },
   "0xc4bc4b1aD2f1D21956FcD5AF030037c5F64842eC": {
     "total_volume": 14.935284000000001,
@@ -17176,8 +17176,8 @@
     "today_added_volume": 0.0
   },
   "0xDB1b3F61D44FebF9475e683Ce6F0C3E8741b1849": {
-    "total_volume": 163.24209,
-    "today_added_volume": 49.9533
+    "total_volume": 458.92996600000004,
+    "today_added_volume": 345.6411760000001
   },
   "0x9A66C0c90274b3643ac4FaC10Ec2049a3A274b27": {
     "total_volume": 41.760709,
@@ -17340,8 +17340,8 @@
     "today_added_volume": 0.0
   },
   "0x93A832D36d989Da26A5112AB28410D04900C93Eb": {
-    "total_volume": 95.45457300000001,
-    "today_added_volume": 0.0
+    "total_volume": 141.34988,
+    "today_added_volume": 45.895307
   },
   "0x2B547D315bD3bF8B2EB2232d7C7cce1f519B0580": {
     "total_volume": 54.120615,
@@ -17744,8 +17744,8 @@
     "today_added_volume": 0.0
   },
   "0x2847bE6b525801d6828454b32Aa87962ACD5DDd8": {
-    "total_volume": 14038.206485999997,
-    "today_added_volume": 0.0
+    "total_volume": 14138.204831999998,
+    "today_added_volume": 99.99834599999998
   },
   "0x15C20c28638e649125a859Ca6947b7491bD9D652": {
     "total_volume": 8.7584,
@@ -17812,8 +17812,8 @@
     "today_added_volume": 0.0
   },
   "0xd75b5B9ef4Dd9B5601bC2969DF3b085556ACd107": {
-    "total_volume": 40245.69016200001,
-    "today_added_volume": 0.0
+    "total_volume": 40354.408512000016,
+    "today_added_volume": 108.71834999999999
   },
   "0xaaCaFEAbE9c1EA1E9Cf4C122c12e9DC532290085": {
     "total_volume": 23.689527,
@@ -18048,8 +18048,8 @@
     "today_added_volume": 0.0
   },
   "0x936CfCAF6646F559A024f0f8D5f328699bddA25D": {
-    "total_volume": 8.98923,
-    "today_added_volume": 0.0
+    "total_volume": 41.807500999999995,
+    "today_added_volume": 32.818270999999996
   },
   "0xDf99F63Bc8F1Ce2fD7Aa0C0140A0340F91fB4680": {
     "total_volume": 89.514059,
@@ -18272,16 +18272,16 @@
     "today_added_volume": 0.0
   },
   "0x079C31B2dbd7566C7cE2b5B1Bbc3989DD32eDE0f": {
-    "total_volume": 695.1668450000001,
-    "today_added_volume": 517.2828440000001
+    "total_volume": 1099.917426,
+    "today_added_volume": 922.0334250000001
   },
   "0x92fB8e3633fA131d6d3C943E978e01c9e38FAD78": {
     "total_volume": 45.999167,
     "today_added_volume": 0.0
   },
   "0x857CE50ee904f7BeB0006e35E63be33635EB8495": {
-    "total_volume": 75.8202,
-    "today_added_volume": 43.19662
+    "total_volume": 675.16094,
+    "today_added_volume": 642.53736
   },
   "0x502d4101D9dEf9402A9be63B65d87130804491d5": {
     "total_volume": 62.43737,
@@ -18476,8 +18476,8 @@
     "today_added_volume": 0.0
   },
   "0x76a48EBc97778E1259542835bBC49cb4a676D4C7": {
-    "total_volume": 115.308256,
-    "today_added_volume": 0.0
+    "total_volume": 165.171523,
+    "today_added_volume": 49.863267
   },
   "0xb551Aa5C3269b351a478a9e33060b7574B2CDd31": {
     "total_volume": 39.99337,
@@ -18516,8 +18516,8 @@
     "today_added_volume": 0.0
   },
   "0x8b49959C6A7547D3B3Cad009D85454B0DA463C14": {
-    "total_volume": 125.16338400000001,
-    "today_added_volume": 0.0
+    "total_volume": 140.622344,
+    "today_added_volume": 15.45896
   },
   "0x7E4a62F3883ec006C6B1c717CDB79194F6bF9D00": {
     "total_volume": 9.293899999999999,
@@ -18588,8 +18588,8 @@
     "today_added_volume": 0.0
   },
   "0xB45926cd291172A8C5b47B1334552B1f47A14587": {
-    "total_volume": 454.27230000000003,
-    "today_added_volume": 103.87144
+    "total_volume": 558.5922,
+    "today_added_volume": 208.19134
   },
   "0x1ca2DFbf55c7f5209cec015551Faa03fD473ABA2": {
     "total_volume": 63.19997000000001,
@@ -19172,8 +19172,8 @@
     "today_added_volume": 0.0
   },
   "0x6bB4987E6B4f6CF687B1D1058eac66F0a799A277": {
-    "total_volume": 53.5659,
-    "today_added_volume": 0.0
+    "total_volume": 201.23068700000002,
+    "today_added_volume": 147.66478700000002
   },
   "0x3c137635029dd1779Bb659027bd3b7aC6247affc": {
     "total_volume": 63.79593,
@@ -20140,8 +20140,8 @@
     "today_added_volume": 0.0
   },
   "0x6617627281D0CC4B05C8C5AdD80069CBFbc89822": {
-    "total_volume": 215.48001399999998,
-    "today_added_volume": 159.4852
+    "total_volume": 433.97309399999995,
+    "today_added_volume": 377.97828
   },
   "0x2c5F259D354D03dB15de583b46695c61BeDd3381": {
     "total_volume": 49.568467,
@@ -20724,8 +20724,8 @@
     "today_added_volume": 0.0
   },
   "0xcE02D7554BA152FcD7674d1c2CF410F88D7771f5": {
-    "total_volume": 7831.396029000002,
-    "today_added_volume": 0.0
+    "total_volume": 11963.072676000003,
+    "today_added_volume": 4131.676647
   },
   "0xB515e98901cF7882cD28520a65B9C8Ba630ce51E": {
     "total_volume": 48.589999999999996,
@@ -20908,8 +20908,8 @@
     "today_added_volume": 0.0
   },
   "0x8FFdA088088476DB605B1897581EC121F324B270": {
-    "total_volume": 313.619307,
-    "today_added_volume": 243.00282
+    "total_volume": 338.951147,
+    "today_added_volume": 268.33466000000004
   },
   "0x7B0890cAfB6c5F8a09F818173A9FF4a84D029153": {
     "total_volume": 111.261801,
@@ -20928,8 +20928,8 @@
     "today_added_volume": 0.0
   },
   "0xae7fc5554d5692F945f003E5Ea8B8F42Ea608c4C": {
-    "total_volume": 1678.4051659999998,
-    "today_added_volume": 15.768924000000002
+    "total_volume": 1804.5757099999998,
+    "today_added_volume": 141.939468
   },
   "0x6f5c7fD6E5C7Ba412B76809Ea85F5D940c6A5D94": {
     "total_volume": 65.857303,
@@ -20952,8 +20952,8 @@
     "today_added_volume": 0.0
   },
   "0xF1f83A35f5Faf96a71024d2E28e6Ba56566792B3": {
-    "total_volume": 1385.4841010000007,
-    "today_added_volume": 15.513975
+    "total_volume": 1447.5619930000007,
+    "today_added_volume": 77.591867
   },
   "0xf52C384802941dD0197D8A4255bCefaC13f0CE7a": {
     "total_volume": 18.326934,
@@ -21428,8 +21428,8 @@
     "today_added_volume": 0.0
   },
   "0x8E56C75de1eD424e4CAb3cD9Bd8bF43135DE4416": {
-    "total_volume": 51.726361999999995,
-    "today_added_volume": 0.0
+    "total_volume": 132.72816899999998,
+    "today_added_volume": 81.001807
   },
   "0x404F583833d0a05156FF6003da652B6031eBCB55": {
     "total_volume": 49.89925,
@@ -21812,8 +21812,8 @@
     "today_added_volume": 0.0
   },
   "0xC35076Df1af98512225C63526aa370C80962a8d2": {
-    "total_volume": 701.739745,
-    "today_added_volume": 0.0
+    "total_volume": 863.8199689999999,
+    "today_added_volume": 162.080224
   },
   "0xF53d14153951d75550514A5D96E681B466D9Cdf4": {
     "total_volume": 15.431256,
@@ -21964,8 +21964,8 @@
     "today_added_volume": 0.0
   },
   "0xA88cB72137aeE073E2CB42cECae7f121710071Dc": {
-    "total_volume": 30166.562052999994,
-    "today_added_volume": 2909.01392
+    "total_volume": 30173.179752999993,
+    "today_added_volume": 2915.6316199999997
   },
   "0xEBa176dF260015467178998a4CEF6C7C296A6086": {
     "total_volume": 8.4576,
@@ -22536,8 +22536,8 @@
     "today_added_volume": 0.0
   },
   "0x9AAB8C5d2ee2d7A3b604AD9f02af7Ce5E071B140": {
-    "total_volume": 74448.24849599996,
-    "today_added_volume": 652.2622459999998
+    "total_volume": 75478.62493199996,
+    "today_added_volume": 1682.6386820000002
   },
   "0xF0669Ef23b776Bb5998920647996BB3A137CA52A": {
     "total_volume": 45.113307999999996,
@@ -22588,8 +22588,8 @@
     "today_added_volume": 0.0
   },
   "0x6dCE01Fc81B5b1808cfA5dB06192ac416523243B": {
-    "total_volume": 223.34443000000002,
-    "today_added_volume": 0.0
+    "total_volume": 1365.72959,
+    "today_added_volume": 1142.3851599999998
   },
   "0xC25C2b176F1B566C4d1d7e2819c9e29737ec9572": {
     "total_volume": 39.99646,
@@ -23572,8 +23572,8 @@
     "today_added_volume": 0.0
   },
   "0x303A4dCA262370b3b428365184c6E7B482a6eb39": {
-    "total_volume": 59.47016000000001,
-    "today_added_volume": 0.0
+    "total_volume": 64.954496,
+    "today_added_volume": 5.484336000000001
   },
   "0xee4c5c2D1c4c31281f3f59F9E2FA9366Fef9A417": {
     "total_volume": 51.482514,
@@ -24052,8 +24052,8 @@
     "today_added_volume": 0.0
   },
   "0xd753Aeb3c7ea96b61451F0AAdEddF32AA0BB3CC5": {
-    "total_volume": 506.1555470000001,
-    "today_added_volume": 0.0
+    "total_volume": 993.9889170000001,
+    "today_added_volume": 487.83337000000006
   },
   "0xB6718dFC7e19DCee622043eFB604b9481c2FE4ab": {
     "total_volume": 50.871432,
@@ -24284,8 +24284,8 @@
     "today_added_volume": 0.0
   },
   "0x53624C5f78Ecc78d97107664F16E57a976890AF2": {
-    "total_volume": 334.126221,
-    "today_added_volume": 325.766221
+    "total_volume": 1223.1719010000004,
+    "today_added_volume": 1214.8119010000005
   },
   "0xDed9cEda264CD2Cd6fD68CbC2be4a0265a35c969": {
     "total_volume": 41.213955,
@@ -24440,8 +24440,8 @@
     "today_added_volume": 0.0
   },
   "0x379772D82b56fF9BFe3ed2d1A1160DE14e9C2Cfb": {
-    "total_volume": 64.59812000000001,
-    "today_added_volume": 0.0
+    "total_volume": 81.03848,
+    "today_added_volume": 16.44036
   },
   "0xB7dC74C0399a52Ef05b6c3f743C3051c925ABe73": {
     "total_volume": 60799.13582000005,
@@ -24916,8 +24916,8 @@
     "today_added_volume": 0.0
   },
   "0x59ed6680B0E12402A7a0C46E4a7e2f0C6b3C1D91": {
-    "total_volume": 15.096415999999998,
-    "today_added_volume": 0.0
+    "total_volume": 40.097347,
+    "today_added_volume": 25.000931
   },
   "0x8A3B477055d34518636d45BDCD9d2D1457211fb0": {
     "total_volume": 2619.707895999999,
@@ -25012,8 +25012,8 @@
     "today_added_volume": 0.0
   },
   "0x9b4792b8E10D99c4Ce28fE37902464dAEC0B458A": {
-    "total_volume": 1443.9202519999997,
-    "today_added_volume": 118.25368
+    "total_volume": 1502.9850189999997,
+    "today_added_volume": 177.318447
   },
   "0x71993FB29bE7898A68a773D53F1B6f9c3d4fc452": {
     "total_volume": 40.96335,
@@ -25148,8 +25148,8 @@
     "today_added_volume": 0.0
   },
   "0x72031C4D7A2e37d08B9fA6F973F5d822c199ff9e": {
-    "total_volume": 39.100156999999996,
-    "today_added_volume": 0.0
+    "total_volume": 848.6756169999999,
+    "today_added_volume": 809.5754599999999
   },
   "0x9CDAb6F07EB449AAaCeAc31A3724F3B8e0C42fa1": {
     "total_volume": 42.91999,
@@ -25956,8 +25956,8 @@
     "today_added_volume": 0.0
   },
   "0x9759096FA6Be30D6f8c51a8E99593eEfCcbD11a0": {
-    "total_volume": 228.470288,
-    "today_added_volume": 0.0
+    "total_volume": 237.93301400000001,
+    "today_added_volume": 9.462726
   },
   "0x9b6db7ead71aeB0f17E8B55b988682DbEC5475ED": {
     "total_volume": 8.008280000000001,
@@ -26304,8 +26304,8 @@
     "today_added_volume": 0.0
   },
   "0x2555870Df579d6c9Fb48D6b308A1Afae96041693": {
-    "total_volume": 8.3088,
-    "today_added_volume": 0.0
+    "total_volume": 37.537104,
+    "today_added_volume": 29.228303999999998
   },
   "0x381222470FA21aD5cD713385c95B68aCbC36539E": {
     "total_volume": 7.597395000000001,
@@ -26492,8 +26492,8 @@
     "today_added_volume": 0.0
   },
   "0x552a75928C34E1BDC631146813a543A6B08e3fe6": {
-    "total_volume": 4143.990089999999,
-    "today_added_volume": 4091.2435499999992
+    "total_volume": 9930.584256,
+    "today_added_volume": 9877.837716
   },
   "0x26337C57a368db3C510650EdC235ab668d500cCe": {
     "total_volume": 39.952115,
@@ -26648,8 +26648,8 @@
     "today_added_volume": 0.0
   },
   "0x07D356f8Bd07e56Aa2bEFEa740b45D0D0E575a1D": {
-    "total_volume": 59184.03713,
-    "today_added_volume": 0.0
+    "total_volume": 72414.5153,
+    "today_added_volume": 13230.478169999997
   },
   "0xE3F149259191E750820B1f6A617caa9a6e04fd9C": {
     "total_volume": 10.631955,
@@ -26940,8 +26940,8 @@
     "today_added_volume": 0.0
   },
   "0xce690022BFfa8d2C73d505bc35c30cEfBC70FD8a": {
-    "total_volume": 156.288449,
-    "today_added_volume": 0.0
+    "total_volume": 4133.000889,
+    "today_added_volume": 3976.7124400000002
   },
   "0xC751831Bc4C2fCBE9EBE92455933CFe2aA2aF2Cb": {
     "total_volume": 101.50443700000001,
@@ -26988,8 +26988,8 @@
     "today_added_volume": 0.0
   },
   "0x493a8eB03910B3CbEE83761A45D4199A348B36b8": {
-    "total_volume": 15.999921,
-    "today_added_volume": 0.0
+    "total_volume": 37.990071,
+    "today_added_volume": 21.99015
   },
   "0x6926ac9990b0857f9B57592a82fd647a54a5D18A": {
     "total_volume": 158.30398,
@@ -27064,8 +27064,8 @@
     "today_added_volume": 0.0
   },
   "0x70A551a3A10aaDE18D45f226834f6e0fFf38c4Af": {
-    "total_volume": 258.808518,
-    "today_added_volume": 31.50865
+    "total_volume": 322.26491699999997,
+    "today_added_volume": 94.96504900000001
   },
   "0x2CaD1B0d492C698eA658E637388a3dcd07bD969e": {
     "total_volume": 38.1748,
@@ -27292,8 +27292,8 @@
     "today_added_volume": 0.0
   },
   "0x9f3D6045Ab121Dd16902e25Fffa5F946D240688d": {
-    "total_volume": 4631.033958999999,
-    "today_added_volume": 0.0
+    "total_volume": 5243.5755389999995,
+    "today_added_volume": 612.54158
   },
   "0x1Dfb3BEabd53D00F117d36C286f3476094a04fBD": {
     "total_volume": 18.72611,
@@ -27388,8 +27388,8 @@
     "today_added_volume": 0.0
   },
   "0x309c475a0431A11Bf2D914D1849F65630608b064": {
-    "total_volume": 48.499326,
-    "today_added_volume": 0.0
+    "total_volume": 137.097486,
+    "today_added_volume": 88.59816
   },
   "0x855F190BCB89De2baf7cBE2B1f1914aF503f5caD": {
     "total_volume": 47.7051,
@@ -27564,8 +27564,8 @@
     "today_added_volume": 0.0
   },
   "0xF85Ae009145F390D2aCd5D9DB8C3F5515Dd6DF28": {
-    "total_volume": 65.174345,
-    "today_added_volume": 0.0
+    "total_volume": 70.517045,
+    "today_added_volume": 5.342700000000001
   },
   "0x30Df0fA6d0AF9fc8D8F1434bb3e403dA865Dc051": {
     "total_volume": 27.89796,
@@ -27792,8 +27792,8 @@
     "today_added_volume": 0.0
   },
   "0x2a0FcFebbeDaE95c7Cf9277A8396EA4feDC6D1A8": {
-    "total_volume": 15.857084,
-    "today_added_volume": 0.0
+    "total_volume": 41.770846,
+    "today_added_volume": 25.913762
   },
   "0x9C81797304068FE0668c552Bc7563Ec2cc6DCa81": {
     "total_volume": 8.344,
@@ -28008,8 +28008,8 @@
     "today_added_volume": 0.0
   },
   "0x51FbB727A6b9f482b7f801044fE86Bc194Dd1D0B": {
-    "total_volume": 7665.1835599999995,
-    "today_added_volume": 0.0
+    "total_volume": 10015.45121,
+    "today_added_volume": 2350.2676500000007
   },
   "0x42154bFbed1FCe438280606C03641A831C2b5B03": {
     "total_volume": 55.998333,
@@ -28092,8 +28092,8 @@
     "today_added_volume": 0.0
   },
   "0x3D5a090A24CfbA794E734142D95a66d738aC784B": {
-    "total_volume": 489.761637,
-    "today_added_volume": 60.725578999999996
+    "total_volume": 514.187438,
+    "today_added_volume": 85.15137999999999
   },
   "0xfaa53CB805A4Be2E76EBE59c76bD8c71DEc6B844": {
     "total_volume": 99.52110600000002,
@@ -28148,8 +28148,8 @@
     "today_added_volume": 0.0
   },
   "0x14Ff156323524A9667a3a62cc2a2AdEd64469E4D": {
-    "total_volume": 31.922909999999998,
-    "today_added_volume": 0.0
+    "total_volume": 207.20540699999998,
+    "today_added_volume": 175.28249699999998
   },
   "0x34D2AC3B0b8483a77E982c924CD71Cf0E72429Ce": {
     "total_volume": 158.87377800000002,
@@ -28264,8 +28264,8 @@
     "today_added_volume": 0.0
   },
   "0x257728274e8Aa131a5479843cb5005749BeeFD0c": {
-    "total_volume": 50.298704,
-    "today_added_volume": 0.0
+    "total_volume": 103.812704,
+    "today_added_volume": 53.514
   },
   "0x689c4140e061AB1E4264F9966778F410e779e8A4": {
     "total_volume": 39.558,
@@ -28424,8 +28424,8 @@
     "today_added_volume": 0.0
   },
   "0x67FD79557200A7124484DdaEcAFC4566aa30E268": {
-    "total_volume": 146.757057,
-    "today_added_volume": 0.0
+    "total_volume": 166.926482,
+    "today_added_volume": 20.169425
   },
   "0x473599FAFfa046Ed83eC7f12D9154f10bbC16aC7": {
     "total_volume": 200.76707799999997,
@@ -28524,8 +28524,8 @@
     "today_added_volume": 0.0
   },
   "0x96BA132d145099a26358A80f92d573e5Db9945a9": {
-    "total_volume": 1366.3751270000002,
-    "today_added_volume": 496.173763
+    "total_volume": 2749.8954030000004,
+    "today_added_volume": 1879.6940390000002
   },
   "0x9F5Abd1DC48a6aD3d95fA0012104CC0DF2f32EF8": {
     "total_volume": 8.248,
@@ -28676,8 +28676,8 @@
     "today_added_volume": 0.0
   },
   "0xB50102B422Ed00F64f4365f4c52dAcc334486825": {
-    "total_volume": 8272.994659999997,
-    "today_added_volume": 0.0
+    "total_volume": 8444.393759999997,
+    "today_added_volume": 171.3991
   },
   "0x96536C6bc6cB7180ef9f74a3F7b008C1CC5d757c": {
     "total_volume": 284.07757599999997,
@@ -28736,8 +28736,8 @@
     "today_added_volume": 0.0
   },
   "0x3B61203C589Bcb105a9E11C348F4bd74C59B07e5": {
-    "total_volume": 42.4763,
-    "today_added_volume": 0.0
+    "total_volume": 265.870412,
+    "today_added_volume": 223.39411199999998
   },
   "0x49a26f90509fE18441aC466eC9Cb0467423F62eA": {
     "total_volume": 123.78634299999999,
@@ -28896,8 +28896,8 @@
     "today_added_volume": 0.0
   },
   "0x389Aa40c8c40bcd85D76CabF630AADfC9E0deCe4": {
-    "total_volume": 8.1232,
-    "today_added_volume": 0.0
+    "total_volume": 33.080886,
+    "today_added_volume": 24.957686
   },
   "0x68A6343A7bb1DcdE848146CeF7F7a69C0CEC5B45": {
     "total_volume": 39.633199999999995,
@@ -28940,8 +28940,8 @@
     "today_added_volume": 0.0
   },
   "0xb09afb9a2D5f26Cca3a6C30d36C74d45630B9Cc5": {
-    "total_volume": 39.858185,
-    "today_added_volume": 0.0
+    "total_volume": 538.1456649999998,
+    "today_added_volume": 498.2874799999998
   },
   "0x8C1ac46B61234ea2488309dfcc16D1f84c1580C7": {
     "total_volume": 54.997516000000005,
@@ -29432,8 +29432,8 @@
     "today_added_volume": 0.0
   },
   "0x63c23812f03e2549e08Aa8E1E77583578e5cA68b": {
-    "total_volume": 56.94468,
-    "today_added_volume": 0.0
+    "total_volume": 162.024336,
+    "today_added_volume": 105.079656
   },
   "0xc083431fD2558f0d7085742ACEF61AAf8414fd53": {
     "total_volume": 38.5396,
@@ -30032,8 +30032,8 @@
     "today_added_volume": 0.0
   },
   "0x2f8c3B02E907CFd2fD865B8E335e9c598Aa67675": {
-    "total_volume": 96.67677,
-    "today_added_volume": 0.0
+    "total_volume": 661.31385,
+    "today_added_volume": 564.63708
   },
   "0x00711c3E334EE697E1e0971217E47F8D49d148Ea": {
     "total_volume": 54.999776,
@@ -30488,8 +30488,8 @@
     "today_added_volume": 0.0
   },
   "0x5e9b8679CAE259199c08a271f4D44b87A29B338f": {
-    "total_volume": 126.37844,
-    "today_added_volume": 27.71065
+    "total_volume": 158.327693,
+    "today_added_volume": 59.659903
   },
   "0xDc100d4FFa614C00d77BC5c2A4B9487f8cED45d2": {
     "total_volume": 39.992302,
@@ -31016,12 +31016,12 @@
     "today_added_volume": 0.0
   },
   "0x3736B66BBF66340FE4eC7CA1A2A2b5a276516DC7": {
-    "total_volume": 366.430029,
-    "today_added_volume": 0.0
+    "total_volume": 3905.561568999999,
+    "today_added_volume": 3539.131539999999
   },
   "0xc52e2027DE801ea72A478C6605f109e26703F29d": {
-    "total_volume": 12026.256339999996,
-    "today_added_volume": 4626.867219999999
+    "total_volume": 16268.510989999997,
+    "today_added_volume": 8869.121869999999
   },
   "0xA6123C3aF7b9eeD9d67c907426E22E31F5E13101": {
     "total_volume": 23.46195,
@@ -31644,8 +31644,8 @@
     "today_added_volume": 0.0
   },
   "0xc2e8443Cc3B32F63F9f0ba826E97BD88f5C5b0D2": {
-    "total_volume": 7.610757,
-    "today_added_volume": 0.0
+    "total_volume": 13.358557000000001,
+    "today_added_volume": 5.7478
   },
   "0x08599fBBA42c083656079f76164826DbfF4503E5": {
     "total_volume": 43.284690000000005,
@@ -31796,8 +31796,8 @@
     "today_added_volume": 0.0
   },
   "0x00B409beaEF2aD33FF155bF56494b6CF46c063Cd": {
-    "total_volume": 422.37725499999993,
-    "today_added_volume": 383.57790099999994
+    "total_volume": 435.3308849999999,
+    "today_added_volume": 396.5315309999999
   },
   "0x32b65EbEB1A39D76Fc914dfcC192C1E29E2AE9C2": {
     "total_volume": 46.073878,
@@ -31980,8 +31980,8 @@
     "today_added_volume": 0.0
   },
   "0x505225461a57Bdd8987A5d129552baB62E17B8E3": {
-    "total_volume": 7.6688,
-    "today_added_volume": 0.0
+    "total_volume": 40.893134999999994,
+    "today_added_volume": 33.224334999999996
   },
   "0x0076D1c07a3ADf1e802E7B869bAb8f9510491523": {
     "total_volume": 35.03115,
@@ -32332,8 +32332,8 @@
     "today_added_volume": 0.0
   },
   "0xFF91767c68942F4f4490aF86325a61F7E4a795Ea": {
-    "total_volume": 10588.602051999998,
-    "today_added_volume": 0.0
+    "total_volume": 12487.442160999999,
+    "today_added_volume": 1898.8401090000004
   },
   "0xb22C9534f52397596708A8e820f3a96b04A83178": {
     "total_volume": 57.844170000000005,
@@ -32460,8 +32460,8 @@
     "today_added_volume": 0.0
   },
   "0x239089A4fCB4D96CEF7A901efc2201E74214E051": {
-    "total_volume": 38.998588,
-    "today_added_volume": 0.0
+    "total_volume": 280.629618,
+    "today_added_volume": 241.63103
   },
   "0x3b85F5C7E27D592e026F403cb15bA2c1C46b4B81": {
     "total_volume": 110.939909,
@@ -32564,8 +32564,8 @@
     "today_added_volume": 0.0
   },
   "0xC5b853853CAd10fC9Ef920fC0656bC0810fDd697": {
-    "total_volume": 7.677956000000001,
-    "today_added_volume": 0.0
+    "total_volume": 17.795056000000002,
+    "today_added_volume": 10.1171
   },
   "0x14727063409f664Ee2Bb05017216bF4f2f3D57Ed": {
     "total_volume": 326.11779,
@@ -32804,8 +32804,8 @@
     "today_added_volume": 0.0
   },
   "0x491932aD7949532027ADAdc8293926104E50a942": {
-    "total_volume": 1558.98294,
-    "today_added_volume": 0.0
+    "total_volume": 2020.9591300000002,
+    "today_added_volume": 461.97619000000003
   },
   "0xACE7F462714978b535D55deB8CDEaa0A9cC4B0b7": {
     "total_volume": 39.318189999999994,
@@ -33028,8 +33028,8 @@
     "today_added_volume": 0.0
   },
   "0x7A75a2bFc1861528aa2c42D3350a4571B054f8C6": {
-    "total_volume": 544.9826254000001,
-    "today_added_volume": 0.0
+    "total_volume": 570.1087054000001,
+    "today_added_volume": 25.12608
   },
   "0x82A8A6050C092751513fb8Acb77f27eCF44Fa74B": {
     "total_volume": 3701.091056,
@@ -33408,8 +33408,8 @@
     "today_added_volume": 0.0
   },
   "0x78bE8dbE506cfB8f9Df6e8E8c8aDcB27A636B926": {
-    "total_volume": 91.76993200000001,
-    "today_added_volume": 30.310059000000003
+    "total_volume": 126.03172500000001,
+    "today_added_volume": 64.571852
   },
   "0xF659547Ab5633B3d0D2aECb4C609C8FcdA3d7d7A": {
     "total_volume": 41.406271,
@@ -33724,8 +33724,8 @@
     "today_added_volume": 0.0
   },
   "0x48cD35e817f43f49FdE10395529eF5512C97a5e8": {
-    "total_volume": 61.23598,
-    "today_added_volume": 0.0
+    "total_volume": 78.50983,
+    "today_added_volume": 17.27385
   },
   "0xCa80eA1eD6CcF6B6512c2626Dff3ec089C3D72fc": {
     "total_volume": 22.72424,
@@ -34148,8 +34148,8 @@
     "today_added_volume": 0.0
   },
   "0x5156a23761d5f234DcC2FaA617bde18639D3e8B8": {
-    "total_volume": 22.777515,
-    "today_added_volume": 0.0
+    "total_volume": 161.84219099999999,
+    "today_added_volume": 139.064676
   },
   "0xb7b7d2a509DB34a06c519B0175fbAAf5C6A27B3B": {
     "total_volume": 36.890961000000004,
@@ -34244,8 +34244,8 @@
     "today_added_volume": 0.0
   },
   "0xa61A4DccFC84c41068966A05dA94AD529FfAe5b4": {
-    "total_volume": 9.459999999999999,
-    "today_added_volume": 0.0
+    "total_volume": 20.995624999999997,
+    "today_added_volume": 11.535625
   },
   "0xc13a37aF9b1e973BBe0ae96C9dA251Ee3b14F1f5": {
     "total_volume": 22.745981999999998,
@@ -34412,12 +34412,12 @@
     "today_added_volume": 0.0
   },
   "0xF1404DC945E6d70E05b2b3daae24B228a9C8fD68": {
-    "total_volume": 73.486584,
-    "today_added_volume": 0.0
+    "total_volume": 288.19548,
+    "today_added_volume": 214.708896
   },
   "0x94314Ce6E319f1f834D1f841B651132E086e5BeC": {
-    "total_volume": 14.934566,
-    "today_added_volume": 0.0
+    "total_volume": 22.937264,
+    "today_added_volume": 8.002698
   },
   "0x87F6f070e227062CA3Bf3849C603cf59Cc272e9C": {
     "total_volume": 35.361553,
@@ -34640,8 +34640,8 @@
     "today_added_volume": 0.0
   },
   "0xc3Ee9f5ACF9362cDD891b0C22ABcDD47DA9eC959": {
-    "total_volume": 16853.698038000002,
-    "today_added_volume": 426.01753999999994
+    "total_volume": 18867.918047000003,
+    "today_added_volume": 2440.2375489999995
   },
   "0xdB8158c32b4fde145A60a356eb8574968ef5e8C8": {
     "total_volume": 35.596602000000004,
@@ -35072,8 +35072,8 @@
     "today_added_volume": 0.0
   },
   "0xA68e9cd11F2c1376424649C85D837259eB739A59": {
-    "total_volume": 20460.863856999993,
-    "today_added_volume": 0.0
+    "total_volume": 20554.259852999992,
+    "today_added_volume": 93.395996
   },
   "0x7Cf34145e415880aD60C0916083392944284442b": {
     "total_volume": 37.925514,
@@ -35536,8 +35536,8 @@
     "today_added_volume": 0.0
   },
   "0x285c8DE878d4B6532A1Cca46324F1e08f03C6CE8": {
-    "total_volume": 602.13283,
-    "today_added_volume": 0.0
+    "total_volume": 1107.29966,
+    "today_added_volume": 505.16682999999995
   },
   "0x5883BeFbA7AF3ABf077b38cA3cEc92Ccb4BeE9ef": {
     "total_volume": 35.99668,
@@ -36012,8 +36012,8 @@
     "today_added_volume": 0.0
   },
   "0x06e06023bEEc8a5504406Fdd9C886659a623cb0c": {
-    "total_volume": 122.36622,
-    "today_added_volume": 0.0
+    "total_volume": 166.873519,
+    "today_added_volume": 44.507298999999996
   },
   "0x3f6B4773A7630F97b9b7c3411838Ed39482FA708": {
     "total_volume": 16.983600000000003,
@@ -36280,8 +36280,8 @@
     "today_added_volume": 0.0
   },
   "0xbadE689df4CF7abD1D527BdebA0CC3404e12e2E6": {
-    "total_volume": 106.81008499999999,
-    "today_added_volume": 0.0
+    "total_volume": 152.831234,
+    "today_added_volume": 46.021149
   },
   "0xefEc3eABe471B0f32Ec54f8FF6B97A32E4b539d3": {
     "total_volume": 39.998184,
@@ -37056,8 +37056,8 @@
     "today_added_volume": 0.0
   },
   "0xE0aCc5fdFfe4d0297223e9BD34e224C7Dcc78b24": {
-    "total_volume": 105.659651,
-    "today_added_volume": 22.070157000000002
+    "total_volume": 138.855732,
+    "today_added_volume": 55.266238
   },
   "0x9Ee0C04CaCD558D97D8A12EdEDF0D6fA4c8137bB": {
     "total_volume": 38.1123,
@@ -37712,8 +37712,8 @@
     "today_added_volume": 0.0
   },
   "0xf7Cef5934D4d285Fb78888893173bc63642f5910": {
-    "total_volume": 66.54506300000001,
-    "today_added_volume": 0.0
+    "total_volume": 153.305943,
+    "today_added_volume": 86.76088
   },
   "0x8cA9d9ee80EeEEc8861218963aeB93c800c1058e": {
     "total_volume": 110.215364,
@@ -38220,8 +38220,8 @@
     "today_added_volume": 0.0
   },
   "0xC7d23d923218AfA2EA513650153153061A1fbb35": {
-    "total_volume": 5816.0371,
-    "today_added_volume": 0.0
+    "total_volume": 6430.34621,
+    "today_added_volume": 614.30911
   },
   "0xb4023089F10775312A9DD2Bf7e33464A768da9eB": {
     "total_volume": 15.947867999999998,
@@ -38252,8 +38252,8 @@
     "today_added_volume": 0.0
   },
   "0x38641e55A233Bc55dBb89CF268d97AD116a5dcd1": {
-    "total_volume": 12.796,
-    "today_added_volume": 0.0
+    "total_volume": 39.713,
+    "today_added_volume": 26.917
   },
   "0x324526aCD7616F92cA115504b2dc39B3b182dFd7": {
     "total_volume": 15.939453000000002,
@@ -38276,8 +38276,8 @@
     "today_added_volume": 0.0
   },
   "0x21C00c7e85C951769E19cA9cb90529f1db2C88c6": {
-    "total_volume": 443.90802600000006,
-    "today_added_volume": 0.0
+    "total_volume": 1221.9761960000003,
+    "today_added_volume": 778.0681700000002
   },
   "0x3D09a4Ef4A6f5BAAeC23a4FEcb97dCe57943212c": {
     "total_volume": 15.943319999999998,
@@ -38740,8 +38740,8 @@
     "today_added_volume": 0.0
   },
   "0x653Ae0c52d7c71118Ad8Dc1cAb5Bd446c1F92C54": {
-    "total_volume": 7.6845300000000005,
-    "today_added_volume": 0.0
+    "total_volume": 44.92526,
+    "today_added_volume": 37.24073
   },
   "0x502430eB5E71428cfFCA997A12D38f625C13C06f": {
     "total_volume": 46.96706400000001,
@@ -39864,8 +39864,8 @@
     "today_added_volume": 0.0
   },
   "0xE8D3311d1ffB9f8DFCFDb08297C9fCF2484Da94b": {
-    "total_volume": 73.012522,
-    "today_added_volume": 13.762488000000001
+    "total_volume": 86.462092,
+    "today_added_volume": 27.212058
   },
   "0x6459487763Ba2d3642AF42CCD89A3D550A08E6B0": {
     "total_volume": 7.999948,
@@ -40876,8 +40876,8 @@
     "today_added_volume": 0.0
   },
   "0x9b04ba75C8FC688E65d67Ce4f586a66C9A8b719b": {
-    "total_volume": 8.0832,
-    "today_added_volume": 0.0
+    "total_volume": 37.673475,
+    "today_added_volume": 29.590275000000002
   },
   "0x51b9Bf5fa890Df3e565b2fe05899B0C22B592085": {
     "total_volume": 15.996415999999998,
@@ -41152,8 +41152,8 @@
     "today_added_volume": 0.0
   },
   "0xD50bf995a1413c54259E6fe03d5b25a68fD81d26": {
-    "total_volume": 46637.02989700002,
-    "today_added_volume": 1122.0779579999996
+    "total_volume": 47554.734707000025,
+    "today_added_volume": 2039.7827679999996
   },
   "0x0973BEE4cc832154105f64CbF0F2B85f9fD8F357": {
     "total_volume": 15.995124000000002,
@@ -41288,8 +41288,8 @@
     "today_added_volume": 0.0
   },
   "0x4468b60E51cF562a7e430518CC4Bf0D45D371B20": {
-    "total_volume": 39.542178,
-    "today_added_volume": 0.0
+    "total_volume": 67.29687899999999,
+    "today_added_volume": 27.754700999999997
   },
   "0xa223Ec16869d43913a593188038E1b2293DfA5dD": {
     "total_volume": 47.736724,
@@ -41596,8 +41596,8 @@
     "today_added_volume": 0.0
   },
   "0x8e210126eE6CD0D39e7BE21038E39a21163cFEdF": {
-    "total_volume": 515.3627890000001,
-    "today_added_volume": 35.159574
+    "total_volume": 584.9500280000001,
+    "today_added_volume": 104.746813
   },
   "0x061677580A9d788b527f5Dc212DB9564901EB102": {
     "total_volume": 39.994944,
@@ -43656,8 +43656,8 @@
     "today_added_volume": 0.0
   },
   "0x566bcCC745B2f8455692d4bEe055ccdD05f4282c": {
-    "total_volume": 611.452284,
-    "today_added_volume": 99.55679
+    "total_volume": 811.6017039999999,
+    "today_added_volume": 299.70621000000006
   },
   "0x2d15b9bEcc7397deCB429803665782F35d171d61": {
     "total_volume": 560.4463,
@@ -43912,8 +43912,8 @@
     "today_added_volume": 0.0
   },
   "0x1dD67e8Daa7765B3E582D8e7D90E96394203E1Af": {
-    "total_volume": 8.1872,
-    "today_added_volume": 0.0
+    "total_volume": 18.967346,
+    "today_added_volume": 10.780146
   },
   "0x1E719b700a595d1ab538E8Ac950Ec7D7a7B99F9b": {
     "total_volume": 50.3455,
@@ -46316,8 +46316,8 @@
     "today_added_volume": 0.0
   },
   "0x5699A331B4f4fF2d53070BCd2CeE4855ceBB83E3": {
-    "total_volume": 8.055037,
-    "today_added_volume": 0.0
+    "total_volume": 36.987073,
+    "today_added_volume": 28.932036000000004
   },
   "0x437d1A87C10850ec75F3a1D073C4B4399aDB4FCB": {
     "total_volume": 15.998255,
@@ -46352,8 +46352,8 @@
     "today_added_volume": 0.0
   },
   "0x6C6736585289253F2925019460157D329aa5B237": {
-    "total_volume": 37.855599999999995,
-    "today_added_volume": 0.0
+    "total_volume": 127.489274,
+    "today_added_volume": 89.633674
   },
   "0x3E566e707D3F05C8952AEecf23901c3991c30eB9": {
     "total_volume": 50.835538,
@@ -46380,8 +46380,8 @@
     "today_added_volume": 0.0
   },
   "0x136AcCaA6C08E9331789d0ccBc3eeF72e45B7A4e": {
-    "total_volume": 25.902752999999997,
-    "today_added_volume": 0.0
+    "total_volume": 60.449186999999995,
+    "today_added_volume": 34.546434
   },
   "0xD70FDac4E94c17087e9146786D1B386FD4119116": {
     "total_volume": 7.6353,
@@ -46400,8 +46400,8 @@
     "today_added_volume": 0.0
   },
   "0xba4E4628875Ed142162ec838444e266619b215Ed": {
-    "total_volume": 19.849203,
-    "today_added_volume": 0.0
+    "total_volume": 53.465571999999995,
+    "today_added_volume": 33.616369
   },
   "0x881ea8b0e383C0026Ae601bBec33A3121a871B28": {
     "total_volume": 15.993237,
@@ -46660,8 +46660,8 @@
     "today_added_volume": 0.0
   },
   "0x3AAeD429aAD9588B71B8265b34c5727912abE428": {
-    "total_volume": 13266.116175,
-    "today_added_volume": 0.0
+    "total_volume": 15676.593370999999,
+    "today_added_volume": 2410.4771960000003
   },
   "0x9c7397b07931f7fB30Dc76802f32A2f7b463A14B": {
     "total_volume": 37.984125,
@@ -46956,8 +46956,8 @@
     "today_added_volume": 227.05093
   },
   "0xA85B7D83501D222B9271Ffb643e5d782C5aE8AE6": {
-    "total_volume": 246.43239299999996,
-    "today_added_volume": 65.00768
+    "total_volume": 456.8691989999999,
+    "today_added_volume": 275.444486
   },
   "0xb91eB9e08FA927d571077367507725506c1F379B": {
     "total_volume": 55.602176,
@@ -48348,8 +48348,8 @@
     "today_added_volume": 0.0
   },
   "0xe6F39E7ac4e048E354DD496d886A44275B289fcd": {
-    "total_volume": 15.067260000000001,
-    "today_added_volume": 0.0
+    "total_volume": 37.47846,
+    "today_added_volume": 22.4112
   },
   "0x70e6E69960F277078557AF76a02c025a91BE9604": {
     "total_volume": 37.483200000000004,
@@ -51760,8 +51760,8 @@
     "today_added_volume": 0.0
   },
   "0xd7e492d47Fa2E76b209C24a4B4f1fD584bd64f29": {
-    "total_volume": 9.336672,
-    "today_added_volume": 0.0
+    "total_volume": 46.719331000000004,
+    "today_added_volume": 37.382659000000004
   },
   "0xe0669B23d43aafED79bd0840a96b9B91e6DfF69A": {
     "total_volume": 7.68288,
@@ -52224,8 +52224,8 @@
     "today_added_volume": 89.99682899999999
   },
   "0xa8b5c40Fd4Db11FF417781bffa85fe98fDa0306c": {
-    "total_volume": 29.086295999999997,
-    "today_added_volume": 29.086295999999997
+    "total_volume": 36.583251,
+    "today_added_volume": 36.583251
   },
   "0x616CD9465ae8e9B2aA669680152543F50A0beB26": {
     "total_volume": 39.12096,
@@ -52304,8 +52304,8 @@
     "today_added_volume": 0.0
   },
   "0x04214beAF079B42121baf4F427067B3C4F725cd9": {
-    "total_volume": 138.965024,
-    "today_added_volume": 0.0
+    "total_volume": 249.035024,
+    "today_added_volume": 110.07
   },
   "0xbB5ce9c1852a32Ad0b734D41FDB1671a98D6D9C8": {
     "total_volume": 38.888536,
@@ -52352,8 +52352,8 @@
     "today_added_volume": 0.0
   },
   "0x1E8d734f59542817Ba2A1c5fCBf9E79dDEaF2c8F": {
-    "total_volume": 65.331094,
-    "today_added_volume": 0.0
+    "total_volume": 75.732965,
+    "today_added_volume": 10.401871
   },
   "0x2C8C504d70BF5415762ee097584da407adB74C77": {
     "total_volume": 8.999393,
@@ -56880,8 +56880,8 @@
     "today_added_volume": 0.0
   },
   "0xDB63187f9d9752349e2C7B125d197DE8a8D02520": {
-    "total_volume": 6503.99511,
-    "today_added_volume": 140.783255
+    "total_volume": 6725.439222,
+    "today_added_volume": 362.227367
   },
   "0xcA0f813599E9A36290CF3adB1c2BA0CFDB479c52": {
     "total_volume": 8.48904,
@@ -58152,8 +58152,8 @@
     "today_added_volume": 0.0
   },
   "0xa2E4400de642a015D70917b03f1b2A59ea2710dF": {
-    "total_volume": 7.79382,
-    "today_added_volume": 0.0
+    "total_volume": 37.14132,
+    "today_added_volume": 29.3475
   },
   "0x4Aea2072c6f1C83a20dB0c8ed092F09745ebC3a7": {
     "total_volume": 7.862182,
@@ -59508,8 +59508,8 @@
     "today_added_volume": 0.0
   },
   "0x78E88D3652EEcf29eb07AE64d4f7E791dD51C427": {
-    "total_volume": 8.9995,
-    "today_added_volume": 0.0
+    "total_volume": 14.995732,
+    "today_added_volume": 5.996232
   },
   "0x5F3928096D53fD00696F5eeE18A3618693A91fd7": {
     "total_volume": 8.2256,
@@ -59944,8 +59944,8 @@
     "today_added_volume": 0.0
   },
   "0x7b735df9586088654df6A1DC1bB525Ae733Af76b": {
-    "total_volume": 30.350638,
-    "today_added_volume": 0.0
+    "total_volume": 53.30475,
+    "today_added_volume": 22.954112
   },
   "0x395c019a19b3e0d54411f490a44a8cFEABF861A6": {
     "total_volume": 172.669084,
@@ -60136,8 +60136,8 @@
     "today_added_volume": 0.0
   },
   "0x18087bFf110f3ae4Cfe3ac535a7ab77fdaFF73Ac": {
-    "total_volume": 55.365105,
-    "today_added_volume": 0.0
+    "total_volume": 71.193255,
+    "today_added_volume": 15.82815
   },
   "0x12FCD9eEa4d64732d21c46f0dcaa5C66CA59B570": {
     "total_volume": 52.550522,
@@ -60600,8 +60600,8 @@
     "today_added_volume": 0.0
   },
   "0x7983a402e111002259072d600C5bf7BC709193B4": {
-    "total_volume": 4012.550391,
-    "today_added_volume": 2770.73356
+    "total_volume": 4974.338421,
+    "today_added_volume": 3732.5215900000003
   },
   "0x70e553126C85602955EAC18b292580eAD46986Fa": {
     "total_volume": 11.078945000000001,
@@ -61476,8 +61476,8 @@
     "today_added_volume": 0.0
   },
   "0x2121d82a8594767397d374cab9A1bfFC2AF99C6F": {
-    "total_volume": 5261.255564000003,
-    "today_added_volume": 73.240968
+    "total_volume": 5329.777823000003,
+    "today_added_volume": 141.763227
   },
   "0x68672547B142c68c891D8AB757a3E5710a3f12D7": {
     "total_volume": 40.499849999999995,
@@ -61560,8 +61560,8 @@
     "today_added_volume": 0.0
   },
   "0x7d4CED1fE3db31A35E483E8521a78E086705169e": {
-    "total_volume": 958.2486039999999,
-    "today_added_volume": 0.0
+    "total_volume": 1459.990065,
+    "today_added_volume": 501.7414610000001
   },
   "0x63Eb1563a13F49b82C7f7c4f035997E0362B1002": {
     "total_volume": 38.8132,
@@ -61576,8 +61576,8 @@
     "today_added_volume": 0.0
   },
   "0x86454acE63b21EF0DF47527BCAa40ED04c8F0512": {
-    "total_volume": 76.816262,
-    "today_added_volume": 24.979238
+    "total_volume": 89.766892,
+    "today_added_volume": 37.929868
   },
   "0x396a7AE6F8fda6B67AD58fad9E35C0F4504FC06f": {
     "total_volume": 23.487091999999997,
@@ -61916,8 +61916,8 @@
     "today_added_volume": 0.0
   },
   "0x48D98beB9DFCE0A24F284e7653F05609B058AD96": {
-    "total_volume": 1599.120261,
-    "today_added_volume": 0.0
+    "total_volume": 1642.919653,
+    "today_added_volume": 43.799392
   },
   "0x77F7b21CbfA68c103C13ba27D4FAe41AD832B12a": {
     "total_volume": 89.246717,
@@ -63340,8 +63340,8 @@
     "today_added_volume": 0.0
   },
   "0x077A22dFffb4e5f548903294C4A5Ed73A9eE6eF9": {
-    "total_volume": 4377.94917,
-    "today_added_volume": 294.161902
+    "total_volume": 4549.974818,
+    "today_added_volume": 466.18755
   },
   "0x36e5a2f4edEBA17a2b0bc43f4bf7F1B918A54c34": {
     "total_volume": 39.098442,
@@ -63544,8 +63544,8 @@
     "today_added_volume": 0.0
   },
   "0x13aa8d741bB7944633D4F7c23eCe11bea2e14dd4": {
-    "total_volume": 35.197863000000005,
-    "today_added_volume": 0.0
+    "total_volume": 41.489343000000005,
+    "today_added_volume": 6.29148
   },
   "0x2fE3DEcaC1Fbe44C40Fd6769548aA9F0993882fc": {
     "total_volume": 39.146480000000004,
@@ -63592,8 +63592,8 @@
     "today_added_volume": 0.0
   },
   "0xA4E7a1b1da5a113952d26bf780a0bB4B172B71dD": {
-    "total_volume": 71.003298,
-    "today_added_volume": 0.0
+    "total_volume": 113.945236,
+    "today_added_volume": 42.941938
   },
   "0xE1c4a6FD2A3C651D4E7957F497F333AC9F55F2b7": {
     "total_volume": 11.100168,
@@ -64684,8 +64684,8 @@
     "today_added_volume": 0.0
   },
   "0x764b070b663Cf009204f1C26EB05cf323805F46D": {
-    "total_volume": 60.770028,
-    "today_added_volume": 0.0
+    "total_volume": 100.55802800000001,
+    "today_added_volume": 39.788
   },
   "0xA6Cc73912d38Cb8fEAeC23BBceB2CB6Af1341153": {
     "total_volume": 39.109576000000004,
@@ -65892,8 +65892,8 @@
     "today_added_volume": 0.0
   },
   "0xf380Ee12aCBCBF93d4d12e5F6D3456557ec024d7": {
-    "total_volume": 84.051956,
-    "today_added_volume": 0.0
+    "total_volume": 183.75352300000003,
+    "today_added_volume": 99.70156700000001
   },
   "0xfc504A72e3752F26E5b721f544bcb9AC2505cc56": {
     "total_volume": 38.275979,
@@ -65952,8 +65952,8 @@
     "today_added_volume": 0.0
   },
   "0x6F6B79E123F2E9693F24803F9084f371ED05490e": {
-    "total_volume": 69.05648900000001,
-    "today_added_volume": 0.0
+    "total_volume": 80.42850900000002,
+    "today_added_volume": 11.372020000000001
   },
   "0xebD1Ff8477A54Ee437EE468ACCFc51893720b148": {
     "total_volume": 37.78944,
@@ -66224,8 +66224,8 @@
     "today_added_volume": 0.0
   },
   "0x18f5bCBDf68821981F4cDF53eFbEBaA66afEaf8b": {
-    "total_volume": 7.9408,
-    "today_added_volume": 0.0
+    "total_volume": 46.725709,
+    "today_added_volume": 38.784909
   },
   "0x2033180e6ffc3E2EA2C70b41d1e52a162FD52C27": {
     "total_volume": 39.212663000000006,
@@ -66248,8 +66248,8 @@
     "today_added_volume": 0.0
   },
   "0x310C507DFc0419A878f5d1386598a11a7b0693a1": {
-    "total_volume": 5361.444565999998,
-    "today_added_volume": 0.0
+    "total_volume": 5440.685891999999,
+    "today_added_volume": 79.24132599999999
   },
   "0xA2326CC6E8016B14a9f68c3545E673AaC2E164dc": {
     "total_volume": 38.29892,
@@ -66584,8 +66584,8 @@
     "today_added_volume": 0.0
   },
   "0x4B35EDcD6b1A69a66a463b71d4f777407787Cb60": {
-    "total_volume": 1197.5503999999999,
-    "today_added_volume": 131.85615
+    "total_volume": 1241.7439,
+    "today_added_volume": 176.04965
   },
   "0x71b1753baCcd4D95b2696a5CA747991b0995c145": {
     "total_volume": 40.0488,
@@ -66912,8 +66912,8 @@
     "today_added_volume": 0.0
   },
   "0xD4bc689aCa0A4a0A80f6C144f0030378C2652621": {
-    "total_volume": 15.389800000000001,
-    "today_added_volume": 0.0
+    "total_volume": 38.596135000000004,
+    "today_added_volume": 23.206335000000003
   },
   "0x5F0D1e90360530710EEd8974c10EB2BbA934E151": {
     "total_volume": 7.976285,
@@ -67664,8 +67664,8 @@
     "today_added_volume": 0.0
   },
   "0xc3DeC53601BFaB4dE4BC810197F44b544BB5c4fA": {
-    "total_volume": 8.41152,
-    "today_added_volume": 0.0
+    "total_volume": 37.146145,
+    "today_added_volume": 28.734624999999998
   },
   "0x0A8c34AF1227b1f2950Ea3896cc02d4bDE2b78b6": {
     "total_volume": 7.791386,
@@ -69584,8 +69584,8 @@
     "today_added_volume": 0.0
   },
   "0xAa0A293312085524CcBe4E54522f22cfdF606F60": {
-    "total_volume": 124.949483,
-    "today_added_volume": 7.817802
+    "total_volume": 140.59608500000002,
+    "today_added_volume": 23.464404000000002
   },
   "0x2D98D60C62AD4e5662c68c42AD5c48c45961c83B": {
     "total_volume": 38.744800000000005,
@@ -69612,8 +69612,8 @@
     "today_added_volume": 0.0
   },
   "0xB99ADb572c19e9bcA39C2F312dC006191Fd2369b": {
-    "total_volume": 21160.679964000003,
-    "today_added_volume": 0.0
+    "total_volume": 21358.462919,
+    "today_added_volume": 197.78295500000002
   },
   "0x607045AC137A5f6323c6b267902DcB521eB53F2A": {
     "total_volume": 8.2,
@@ -69928,8 +69928,8 @@
     "today_added_volume": 0.0
   },
   "0xF2965A53a59c97B863a6901bed4Cbc273cd92B82": {
-    "total_volume": 8.998679999999998,
-    "today_added_volume": 0.0
+    "total_volume": 48.994097000000004,
+    "today_added_volume": 39.995417
   },
   "0x203E97136c29ed75260d26683EfbB5fEe4CA7Fe9": {
     "total_volume": 46.749936,
@@ -70456,8 +70456,8 @@
     "today_added_volume": 0.0
   },
   "0xc5BA8651DB581EbcA3271FAe5318b33394536C0A": {
-    "total_volume": 281.4523659999999,
-    "today_added_volume": 0.0
+    "total_volume": 293.27645799999993,
+    "today_added_volume": 11.824092
   },
   "0x4A3065342913007249138D756B64d92e57A9dd36": {
     "total_volume": 47.445295,
@@ -70532,8 +70532,8 @@
     "today_added_volume": 0.0
   },
   "0xB26eAF0A066329794010F86e96f26EAC5A40dB87": {
-    "total_volume": 19.765716,
-    "today_added_volume": 0.0
+    "total_volume": 56.701375999999996,
+    "today_added_volume": 36.93566
   },
   "0x78EB1125787b82C89bD8AfB46f4330c70B7Dc471": {
     "total_volume": 38.51877999999999,
@@ -70832,8 +70832,8 @@
     "today_added_volume": 0.0
   },
   "0x4a609B729db83C1ed788bD118044A67a9De10163": {
-    "total_volume": 12.3138,
-    "today_added_volume": 12.3138
+    "total_volume": 151.806827,
+    "today_added_volume": 151.806827
   },
   "0xD58189F5E858A6F67319E33Fa1107eb7e679989f": {
     "total_volume": 10.144,
@@ -70900,8 +70900,8 @@
     "today_added_volume": 0.0
   },
   "0xc7F40a28e3a5DEC93bF97e71D6f84bB4B3774DD7": {
-    "total_volume": 15.698206,
-    "today_added_volume": 0.0
+    "total_volume": 41.642548,
+    "today_added_volume": 25.944342
   },
   "0x136294490E54e61664325707c0eF717A47e4f482": {
     "total_volume": 12.063651,
@@ -75384,8 +75384,8 @@
     "today_added_volume": 0.0
   },
   "0xd0d0E736B2569F95F677b9E85f0992fd1c39DdF4": {
-    "total_volume": 12.421055,
-    "today_added_volume": 0.0
+    "total_volume": 41.719055000000004,
+    "today_added_volume": 29.298000000000002
   },
   "0x8095CBB60E0F9a7675aBedc0f4fD0fF2E3bfA8e0": {
     "total_volume": 37.28409,
@@ -76120,8 +76120,8 @@
     "today_added_volume": 0.0
   },
   "0xB7452586aee812727552E7cc08199d4c79dBBad1": {
-    "total_volume": 82.50878200000001,
-    "today_added_volume": 0.0
+    "total_volume": 121.17132600000001,
+    "today_added_volume": 38.662544
   },
   "0xd62A95BFF170F1CE241ac5025f354211A3927773": {
     "total_volume": 39.990804,
@@ -76420,8 +76420,8 @@
     "today_added_volume": 0.0
   },
   "0xc7FAdf1ee212B6CA0eeaE63d822f9A902EE328F5": {
-    "total_volume": 42209.88626999999,
-    "today_added_volume": 0.0
+    "total_volume": 93005.93493,
+    "today_added_volume": 50796.048660000015
   },
   "0xd978ED2102ea100e7411c50f6692A92F52338E56": {
     "total_volume": 37.796416,
@@ -76468,8 +76468,8 @@
     "today_added_volume": 0.0
   },
   "0x96ac4c225681732b6E106a32e029D676093862d7": {
-    "total_volume": 29.857376,
-    "today_added_volume": 0.0
+    "total_volume": 66.597432,
+    "today_added_volume": 36.740055999999996
   },
   "0xA04b73acB027a33878ACF9d47Ce7E4Cf66843A29": {
     "total_volume": 14.998610000000001,
@@ -76632,8 +76632,8 @@
     "today_added_volume": 0.0
   },
   "0x6b87894920Bda3Aaa5BF3810227BFbEaC5D8753b": {
-    "total_volume": 2194.25218,
-    "today_added_volume": 0.0
+    "total_volume": 5874.655560000001,
+    "today_added_volume": 3680.4033800000007
   },
   "0xC82a953f083C14a3B110BB22d7fba3C4aB44a49d": {
     "total_volume": 14.98076,
@@ -76672,8 +76672,8 @@
     "today_added_volume": 0.0
   },
   "0xDFcbb53CC19c6dC2Dc24aF71A9589Ef8298fD801": {
-    "total_volume": 18.056988,
-    "today_added_volume": 0.0
+    "total_volume": 55.439688000000004,
+    "today_added_volume": 37.3827
   },
   "0x2AEe8BbDfE6B6Fae2466aBF34902d3C24971ff59": {
     "total_volume": 37.771792,
@@ -76760,8 +76760,8 @@
     "today_added_volume": 0.0
   },
   "0x979f8A606ed7CEC924375279B319946A0E6f9cc9": {
-    "total_volume": 3539.2495,
-    "today_added_volume": 201.43548
+    "total_volume": 4497.20923,
+    "today_added_volume": 1159.3952100000001
   },
   "0xb5fA60Bb8929717B8909415e265989D45592F46E": {
     "total_volume": 119.07073000000001,
@@ -77248,8 +77248,8 @@
     "today_added_volume": 0.0
   },
   "0x20da9Cf356326A634A5d4235f2D3d8bBF4C27286": {
-    "total_volume": 8.325081,
-    "today_added_volume": 0.0
+    "total_volume": 39.950819,
+    "today_added_volume": 31.625738000000002
   },
   "0x476358a7139cC2FBFBe9479f27ef54F868E9bb58": {
     "total_volume": 8.495528,
@@ -77500,8 +77500,8 @@
     "today_added_volume": 0.0
   },
   "0x59F414B6D0D9b67e105f906E66227252a28a8449": {
-    "total_volume": 301.36894,
-    "today_added_volume": 0.0
+    "total_volume": 311.475636,
+    "today_added_volume": 10.106696
   },
   "0xe741Bb17D342171Df21554F0A913F5F3bE30064c": {
     "total_volume": 14.998785999999999,
@@ -77864,8 +77864,8 @@
     "today_added_volume": 0.0
   },
   "0x9A6977E53119EeF0a91f9ca4488AA973d617a327": {
-    "total_volume": 683.36172,
-    "today_added_volume": 95.27982
+    "total_volume": 1070.68976,
+    "today_added_volume": 482.60785999999996
   },
   "0x747fa2Aa49d1988bEa0889BB4354A83fC3Df0643": {
     "total_volume": 51.325140999999995,
@@ -78152,8 +78152,8 @@
     "today_added_volume": 0.0
   },
   "0xA147cb247F6FDbB97EB079bd02577df1CEDbe6FB": {
-    "total_volume": 18.736990000000002,
-    "today_added_volume": 10.906590000000001
+    "total_volume": 28.986582000000002,
+    "today_added_volume": 21.156182
   },
   "0xfbED6B641a3Ce4fa10Fd8E468927a3B4377C6159": {
     "total_volume": 5937.304600000004,
@@ -78716,8 +78716,8 @@
     "today_added_volume": 0.0
   },
   "0x95cAe043e97065bD2E36f1bA381965db46683Db8": {
-    "total_volume": 188.20441899999997,
-    "today_added_volume": 188.20441899999997
+    "total_volume": 2508.1496890000003,
+    "today_added_volume": 2508.1496890000003
   },
   "0x98915D11A1fd3fE57C7c385013E987E8cA20Ec6e": {
     "total_volume": 39.188829000000005,
@@ -79644,8 +79644,8 @@
     "today_added_volume": 0.0
   },
   "0x85b2a7cA4779Be7D65313a6716A2fC7B8558D110": {
-    "total_volume": 29.846606,
-    "today_added_volume": 0.0
+    "total_volume": 85.641066,
+    "today_added_volume": 55.79446
   },
   "0x6975382Ee1acd012223B3b7B4621f3Eed37fF65C": {
     "total_volume": 37.5896,
@@ -80412,8 +80412,8 @@
     "today_added_volume": 0.0
   },
   "0xA48EA19b9A3b6Ab97257215B62Eb13f2F09a8b76": {
-    "total_volume": 5406.5202,
-    "today_added_volume": 0.0
+    "total_volume": 16664.60305,
+    "today_added_volume": 11258.082850000003
   },
   "0xE255B46f2cCaCF191D7D5E78fcd3f963571a60e2": {
     "total_volume": 36.799708,
@@ -80544,8 +80544,8 @@
     "today_added_volume": 0.0
   },
   "0x02d4A8bC0c5D40c6C8A698fa0E2D0069BeDb48AA": {
-    "total_volume": 1142.80298,
-    "today_added_volume": 0.0
+    "total_volume": 2052.1066629999996,
+    "today_added_volume": 909.3036829999998
   },
   "0x72448c20dF4aa317e7f08b12aBb39fEC38754c77": {
     "total_volume": 7.915089,
@@ -80620,8 +80620,8 @@
     "today_added_volume": 0.0
   },
   "0x298fAD0D3E97Af47620E843B8B431963bDAE4a21": {
-    "total_volume": 106.85680399999998,
-    "today_added_volume": 0.0
+    "total_volume": 112.20170399999998,
+    "today_added_volume": 5.3449
   },
   "0x0311221747961545ECbEf10bf588B556b27033dB": {
     "total_volume": 36.485006999999996,
@@ -80808,8 +80808,8 @@
     "today_added_volume": 0.0
   },
   "0x644B34AfFF56919Ae2aEf958Da555a212f9d256C": {
-    "total_volume": 14.84868,
-    "today_added_volume": 14.84868
+    "total_volume": 29.13225,
+    "today_added_volume": 29.13225
   },
   "0x041e9b6284Ff3a4EBf66F66047c14433D508F638": {
     "total_volume": 39.989456000000004,
@@ -81312,8 +81312,8 @@
     "today_added_volume": 8.475792
   },
   "0x2101B02390c9002C28690E6967e387c667d551cd": {
-    "total_volume": 59.998642000000004,
-    "today_added_volume": 59.998642000000004
+    "total_volume": 71.37403400000001,
+    "today_added_volume": 71.37403400000001
   },
   "0x80D243156562439B5cFf700D1c0B43AD97F180dc": {
     "total_volume": 8.475792,
@@ -81480,8 +81480,8 @@
     "today_added_volume": 54.05034
   },
   "0x3b2fA1a2c4E8D40214a201b639FB47731086ce94": {
-    "total_volume": 219.74707999999998,
-    "today_added_volume": 219.74707999999998
+    "total_volume": 915.6347000000003,
+    "today_added_volume": 915.6347000000003
   },
   "0x3b18589a4A23dB10bCF82190ba3420F99D503A2e": {
     "total_volume": 36.598768,
@@ -81812,8 +81812,8 @@
     "today_added_volume": 38.354992
   },
   "0xF065f98D711D636f5eA1680421D1bAC3226cf091": {
-    "total_volume": 264.289789,
-    "today_added_volume": 264.289789
+    "total_volume": 783.2964570000001,
+    "today_added_volume": 783.2964570000001
   },
   "0x5A56594Ea5FAADa7244977dA2e66EF6Ec5D3dB99": {
     "total_volume": 149.77571600000002,
@@ -81984,8 +81984,8 @@
     "today_added_volume": 7.00194
   },
   "0x101f44713aE0209E595404D38Da15E665B0f90f7": {
-    "total_volume": 29.75704,
-    "today_added_volume": 29.75704
+    "total_volume": 73.324289,
+    "today_added_volume": 73.324289
   },
   "0xD5c06e0e7638aFaC948469b628737e8E122cE36A": {
     "total_volume": 36.51279,
@@ -82152,8 +82152,8 @@
     "today_added_volume": 36.596132000000004
   },
   "0xA7b92593F76050b92bDf70286F1dB5dDc9C7503C": {
-    "total_volume": 101167.63263,
-    "today_added_volume": 101167.63263
+    "total_volume": 167734.0930499999,
+    "today_added_volume": 167734.0930499999
   },
   "0xF6F23755A230C146FF6EbE3dC689b23E52892a96": {
     "total_volume": 36.908669,
@@ -82356,8 +82356,8 @@
     "today_added_volume": 7.8224
   },
   "0xB7F671dA820691577AFCb77f2393DA7c8BbD684e": {
-    "total_volume": 37.52967,
-    "today_added_volume": 37.52967
+    "total_volume": 49.743570000000005,
+    "today_added_volume": 49.743570000000005
   },
   "0x5feA9c9a675dc1b9895fe715A613683Ee6Ab9EFE": {
     "total_volume": 26.148339999999997,
@@ -82440,8 +82440,8 @@
     "today_added_volume": 15.74795
   },
   "0x56Ae4f8565d4c72737100d1B81EAa01EebDD2E52": {
-    "total_volume": 12.797260000000001,
-    "today_added_volume": 12.797260000000001
+    "total_volume": 40.951723,
+    "today_added_volume": 40.951723
   },
   "0x25027a344ba7AF92c59047c30b1C94658B10E2eF": {
     "total_volume": 7.50841,
@@ -82728,8 +82728,8 @@
     "today_added_volume": 36.79533
   },
   "0x5b70974b4C1a3DB6D3E1e69af6BDe3DC4bd83120": {
-    "total_volume": 7.5728,
-    "today_added_volume": 7.5728
+    "total_volume": 15.196570999999999,
+    "today_added_volume": 15.196570999999999
   },
   "0xfca8ab68C3cBA5D737d7b9e3cd94055515Dc86dF": {
     "total_volume": 15.691239,
@@ -82764,8 +82764,8 @@
     "today_added_volume": 36.299546
   },
   "0xd3423bBb7c801154FfbE19C590962050b582b5F6": {
-    "total_volume": 33.721475,
-    "today_added_volume": 33.721475
+    "total_volume": 50.598167,
+    "today_added_volume": 50.598167
   },
   "0xfbDBab62383e8D56B55dC2D90F29649a81A570CD": {
     "total_volume": 75.98897600000001,
@@ -82808,8 +82808,8 @@
     "today_added_volume": 36.298548
   },
   "0x9e18E6055A8724D8fF4897D6BBcCDe9689376Fcd": {
-    "total_volume": 7.6864,
-    "today_added_volume": 7.6864
+    "total_volume": 48.94735,
+    "today_added_volume": 48.94735
   },
   "0x3493b0Be97f36D1ce8AC044Cbf8076393B2cdd12": {
     "total_volume": 12.572352,
@@ -82864,8 +82864,8 @@
     "today_added_volume": 5.1354
   },
   "0x5Ed26B5f5daB0CFb46A1b804e370b5d6F9B5EE43": {
-    "total_volume": 3729.5394819999983,
-    "today_added_volume": 3729.5394819999983
+    "total_volume": 15779.621764999998,
+    "today_added_volume": 15779.621764999998
   },
   "0x7C89f5E07976209e41Ea2d56F5D6Cb9d7edE0Bf4": {
     "total_volume": 36.299804,
@@ -83064,8 +83064,8 @@
     "today_added_volume": 49.09621
   },
   "0x7676b0D7A391966Df7E220974a569BBb2D49Dd82": {
-    "total_volume": 91.971544,
-    "today_added_volume": 91.971544
+    "total_volume": 113.956678,
+    "today_added_volume": 113.956678
   },
   "0xe51c969CB1c52C6ab5E367a565E4890E9677175E": {
     "total_volume": 15.027298000000002,
@@ -83116,8 +83116,8 @@
     "today_added_volume": 36.49896
   },
   "0x0F2b51e9c1F272BfB08682C935b1497Fb089A97c": {
-    "total_volume": 7.6128,
-    "today_added_volume": 7.6128
+    "total_volume": 22.344299999999997,
+    "today_added_volume": 22.344299999999997
   },
   "0xE1cD1c24219F526E7351904AD2C56F8Dc16e9401": {
     "total_volume": 40.318248,
@@ -83152,8 +83152,8 @@
     "today_added_volume": 15.537275999999999
   },
   "0xf7F1EF5a7C2b48A20865dBF9eebb9401fCFbd4a5": {
-    "total_volume": 1559.1690000000003,
-    "today_added_volume": 1559.1690000000003
+    "total_volume": 1657.9439800000002,
+    "today_added_volume": 1657.9439800000002
   },
   "0xDD0c725968F411d98901f86c5e676EE11CbDebDa": {
     "total_volume": 7.652800000000001,
@@ -83168,8 +83168,8 @@
     "today_added_volume": 61.896708000000004
   },
   "0xd5c89B61D1F8233d1b618fe433a7f787BE8Fd531": {
-    "total_volume": 24.974983,
-    "today_added_volume": 24.974983
+    "total_volume": 62.182032,
+    "today_added_volume": 62.182032
   },
   "0x9830c4bD7AA7eFFa00F83b694ec4c6a4747D9775": {
     "total_volume": 15.217553,
@@ -83180,8 +83180,8 @@
     "today_added_volume": 12.539084
   },
   "0x1693B6eAAeBF28a6DDFa335024A400fA1325d018": {
-    "total_volume": 29.706855,
-    "today_added_volume": 29.706855
+    "total_volume": 37.524455,
+    "today_added_volume": 37.524455
   },
   "0xacE6a35f334fb075BaB69cd56d24d1927d6C312a": {
     "total_volume": 40.87794,
@@ -83224,7 +83224,1255 @@
     "today_added_volume": 38.239999999999995
   },
   "0x8996AAFC3468440E52ec3785b5F9908765BEDeB3": {
-    "total_volume": 14.997297,
-    "today_added_volume": 14.997297
+    "total_volume": 22.792341,
+    "today_added_volume": 22.792341
+  },
+  "0x9B3D0F4f7Ee30815Aeae9FEB92A64bAe5Da37Aba": {
+    "total_volume": 48.94,
+    "today_added_volume": 48.94
+  },
+  "0x15A66E4C7E393ABd18D65dEa0939E76F0f649281": {
+    "total_volume": 23.966381999999996,
+    "today_added_volume": 23.966381999999996
+  },
+  "0x01Ab5f7438A0935fAe1D12B8BCB9fdBe7B73B5bf": {
+    "total_volume": 33.4339,
+    "today_added_volume": 33.4339
+  },
+  "0x48CE4A6B0eC79a66D44CDF080B9F825D0BF7f6C5": {
+    "total_volume": 23.215280000000003,
+    "today_added_volume": 23.215280000000003
+  },
+  "0x1DCE7362283aAdc63C212bbB7ec1C4411E02406f": {
+    "total_volume": 29950.653497,
+    "today_added_volume": 29950.653497
+  },
+  "0xD24c33E7185E3F01b3DDd6DE696B8718B0fA5DE1": {
+    "total_volume": 17.02166,
+    "today_added_volume": 17.02166
+  },
+  "0xD6aFeeA1f642b1ecb40E194a86dCE88b50348329": {
+    "total_volume": 10.947035999999999,
+    "today_added_volume": 10.947035999999999
+  },
+  "0x6BE3a69F1B7e6261e5E9710B61c84b9202383577": {
+    "total_volume": 107.18380000000002,
+    "today_added_volume": 107.18380000000002
+  },
+  "0x8dd60B28d1D41b6d106D7F62B32785d9b966f203": {
+    "total_volume": 7.996945999999999,
+    "today_added_volume": 7.996945999999999
+  },
+  "0x96d47bfb3C22fFB5C7185469e1ae90691aB02F50": {
+    "total_volume": 22.373160000000002,
+    "today_added_volume": 22.373160000000002
+  },
+  "0x34e0B1A31Cb20268b73f5Dfb91b55078a67eA1Fa": {
+    "total_volume": 5835.573860000003,
+    "today_added_volume": 5835.573860000003
+  },
+  "0x4f9eD4E425786Ef8844e881f1Ba21cf5e9a52887": {
+    "total_volume": 85.079582,
+    "today_added_volume": 85.079582
+  },
+  "0x8d50f23A1CA47c2ED75cd40A2Daa0Ad8148eB68f": {
+    "total_volume": 57.57700899999999,
+    "today_added_volume": 57.57700899999999
+  },
+  "0x941738ee5eC6736B7ad75961D38eE3700AD1e955": {
+    "total_volume": 36.998325,
+    "today_added_volume": 36.998325
+  },
+  "0xDc8Bf53604BF074a781Ac4a7D0118304c9bd138A": {
+    "total_volume": 38.787781,
+    "today_added_volume": 0.0
+  },
+  "0x764CC30478EB6aBe1A735bFA18E5A932E7903C32": {
+    "total_volume": 17.996882000000003,
+    "today_added_volume": 0.0
+  },
+  "0x3E46Fd019b7A8AeF4541C3425269eB75a584339a": {
+    "total_volume": 674.9962499999999,
+    "today_added_volume": 0.0
+  },
+  "0xd3339486085b1Db4B7Fa0F1F5f003248e8D23ca7": {
+    "total_volume": 15.969722999999998,
+    "today_added_volume": 0.0
+  },
+  "0x0f18e5021Ece8A2Cb21fAB6a56A4B6C9b0F2E0Fe": {
+    "total_volume": 16.201584,
+    "today_added_volume": 0.0
+  },
+  "0xAc958274C1ebe3f512473B9D0834b5E6D108A2BB": {
+    "total_volume": 7.7904,
+    "today_added_volume": 7.7904
+  },
+  "0xB5c104451aFf79eAF8F18B29862685560D4a6F35": {
+    "total_volume": 14.07462,
+    "today_added_volume": 14.07462
+  },
+  "0x03B9e93C1c8b595c006e08D9D9E3C5eaf3b75a8a": {
+    "total_volume": 13.84585,
+    "today_added_volume": 13.84585
+  },
+  "0x01CbE700fe013546AB85f529B0DFb06BE404E6AE": {
+    "total_volume": 37.056116,
+    "today_added_volume": 37.056116
+  },
+  "0xACE463134836D2E3e9e00864b5d17Ef60d4bF9C7": {
+    "total_volume": 10.224162,
+    "today_added_volume": 0.0
+  },
+  "0x046E9105e398F09DCea9753755f9a909B77e5C18": {
+    "total_volume": 65.42666,
+    "today_added_volume": 65.42666
+  },
+  "0x541e08E9533938E545677443987aDECBa2F4Cf1c": {
+    "total_volume": 18.606360000000002,
+    "today_added_volume": 18.606360000000002
+  },
+  "0x540a0027509B1C9aA0a2c5C65491cC97083E16de": {
+    "total_volume": 36.772436,
+    "today_added_volume": 36.772436
+  },
+  "0xd07d65167017089E70E07Feb263Fc12249970829": {
+    "total_volume": 29.550605000000004,
+    "today_added_volume": 29.550605000000004
+  },
+  "0x552fF574D859b095b29caF9d03a13977B5dCA04D": {
+    "total_volume": 425.49996,
+    "today_added_volume": 425.49996
+  },
+  "0x5A7cA6697a07f74BdE6e719be55DEdcA00127f27": {
+    "total_volume": 142.96852,
+    "today_added_volume": 142.96852
+  },
+  "0x8BF80Cc1254cFad9eA2ef5e2Fcdc25a8F337ec73": {
+    "total_volume": 591.1620739999998,
+    "today_added_volume": 591.1620739999998
+  },
+  "0xe95234a98D68BC911f8642EE853869be8A2AE5ea": {
+    "total_volume": 7.7152,
+    "today_added_volume": 7.7152
+  },
+  "0x30CdF0484fF3f91c0425195B62939D4b103a9E5C": {
+    "total_volume": 13.940248,
+    "today_added_volume": 13.940248
+  },
+  "0x81293862620C0463dD89191920BD05987d20C4DA": {
+    "total_volume": 37.481812,
+    "today_added_volume": 37.481812
+  },
+  "0xb7985A153FF4C8fc197b859F6f7979B126Aaa315": {
+    "total_volume": 149.99999999999997,
+    "today_added_volume": 149.99999999999997
+  },
+  "0xB7a826349244118bbf412d8fD1b4308A0E7E507B": {
+    "total_volume": 49.495983,
+    "today_added_volume": 49.495983
+  },
+  "0x71C994f3635203F942e6EF983E1bFAA91eAe1Ca2": {
+    "total_volume": 20.282999999999998,
+    "today_added_volume": 20.282999999999998
+  },
+  "0x998f7A92706761f1D887D41017B931393F0726fC": {
+    "total_volume": 51.761939,
+    "today_added_volume": 51.761939
+  },
+  "0x19Ba80106f17DcE537081570B47A1db3a2A4587f": {
+    "total_volume": 84.362018,
+    "today_added_volume": 84.362018
+  },
+  "0xDB4250231C27692374ca5cec4ed5D5d7406f0DC2": {
+    "total_volume": 5.15595,
+    "today_added_volume": 5.15595
+  },
+  "0x74F23498904d525416f6dF0A3b3dd00fB4256881": {
+    "total_volume": 20497.072438,
+    "today_added_volume": 20497.072438
+  },
+  "0x3Dc1B7B88C6F1E11E808A506CBCF5a620862F3b3": {
+    "total_volume": 51.542696,
+    "today_added_volume": 51.542696
+  },
+  "0xadAc894e0D04b58ab108f4515f5Ef18819C9e19C": {
+    "total_volume": 85.70620000000001,
+    "today_added_volume": 85.70620000000001
+  },
+  "0x23a37d73fe4E82C9A8658bFEDe7954dD83B2EEd0": {
+    "total_volume": 16.995285,
+    "today_added_volume": 16.995285
+  },
+  "0x16d08840C3B13BE83FB0f8C1C5AA86e9559191ca": {
+    "total_volume": 57.46383,
+    "today_added_volume": 57.46383
+  },
+  "0x381eD4F736DbDDF7841228407Db5cb61F0F7dec7": {
+    "total_volume": 16.270272000000002,
+    "today_added_volume": 16.270272000000002
+  },
+  "0xE01CF764018a9b4e7106e182A2c7b838AF5Ebb82": {
+    "total_volume": 39.995849,
+    "today_added_volume": 39.995849
+  },
+  "0x863C7b18147154C7ab072aBA1054C05c83761273": {
+    "total_volume": 43.555104,
+    "today_added_volume": 43.555104
+  },
+  "0x5F7AB3255fFE42B242A38272C9964C9FC1dB7150": {
+    "total_volume": 44.102676,
+    "today_added_volume": 44.102676
+  },
+  "0x076afadB3A43AA50438fc9a9cA02fCCCd3212b7C": {
+    "total_volume": 77.29507,
+    "today_added_volume": 77.29507
+  },
+  "0x8B915514577636dD49377c8B7eFDD3fda58Af596": {
+    "total_volume": 60.05489800000001,
+    "today_added_volume": 60.05489800000001
+  },
+  "0xd72519c11fFb97551629A535FBa6dAFdd4206bBA": {
+    "total_volume": 38.785035,
+    "today_added_volume": 38.785035
+  },
+  "0x8Eee86f527fa88Cd9dE7161E6CcE9943793A47A8": {
+    "total_volume": 12.754729999999999,
+    "today_added_volume": 12.754729999999999
+  },
+  "0x546C799b124B9feAc6b97A8FAA95F54DA802A624": {
+    "total_volume": 22.945782,
+    "today_added_volume": 22.945782
+  },
+  "0xBBf9DE5c977fFe902edD56F0F1fC15d5c6e54d58": {
+    "total_volume": 107.916334,
+    "today_added_volume": 107.916334
+  },
+  "0xaE69215E933e97a51AAbB6003C7bBa04C039e595": {
+    "total_volume": 38.265212999999996,
+    "today_added_volume": 38.265212999999996
+  },
+  "0xaE130BfA8A5d31e91ec6b84511264FAfc479e222": {
+    "total_volume": 2266.9000600000004,
+    "today_added_volume": 2266.9000600000004
+  },
+  "0x265aC888451C9fE76F07f3065eD7357D18025c42": {
+    "total_volume": 36.972875,
+    "today_added_volume": 36.972875
+  },
+  "0x63954364906d5806d00F4814691F67f416843391": {
+    "total_volume": 22.054462,
+    "today_added_volume": 22.054462
+  },
+  "0x7de4894a3e6bD3035cc7Fa556Ae33747a6DC7020": {
+    "total_volume": 104.449816,
+    "today_added_volume": 104.449816
+  },
+  "0x580cB40b2883BF77FE62c446dE13CdCB360606B0": {
+    "total_volume": 14.439,
+    "today_added_volume": 14.439
+  },
+  "0x7fB827b73224CB4Cc940FFf7C3D66b1cB236bAb5": {
+    "total_volume": 16.941509999999997,
+    "today_added_volume": 16.941509999999997
+  },
+  "0x53391BcD60071cB511597F8067e3A1e6B9011959": {
+    "total_volume": 7.6656,
+    "today_added_volume": 7.6656
+  },
+  "0x8352F5232501C93Ca2F4Efa21bbc6d7f03c43ad4": {
+    "total_volume": 38.053584,
+    "today_added_volume": 38.053584
+  },
+  "0x4F2bD8ad60698C914E22BC80b19aa766DC5b5A21": {
+    "total_volume": 8.06344,
+    "today_added_volume": 8.06344
+  },
+  "0x438D2651b004021247d7B1817433761b00d29C6F": {
+    "total_volume": 74.73636099999999,
+    "today_added_volume": 74.73636099999999
+  },
+  "0x14F718B45540DE9700FaB6c1c74601B5fB971586": {
+    "total_volume": 15.912454,
+    "today_added_volume": 15.912454
+  },
+  "0x907dbc8ef6003A6791fD11552b814E253E82DB1b": {
+    "total_volume": 39.897924,
+    "today_added_volume": 39.897924
+  },
+  "0xc4C18BbC565cfd33C0F3990c40CA7DA5372419A1": {
+    "total_volume": 39.991826,
+    "today_added_volume": 39.991826
+  },
+  "0x7Fe1b7C1fC7A58eBCCBE1157267952c832afB253": {
+    "total_volume": 13.54812,
+    "today_added_volume": 13.54812
+  },
+  "0x78b410955F5c637b998db2AE661CdaA22D7BBe53": {
+    "total_volume": 47.640471999999995,
+    "today_added_volume": 47.640471999999995
+  },
+  "0xDeBb2553fEbD57620458aB78e8197Cb83A0312f4": {
+    "total_volume": 40.021344,
+    "today_added_volume": 40.021344
+  },
+  "0xd6b780487300993652B6f66aBedA541149866d90": {
+    "total_volume": 37.183150999999995,
+    "today_added_volume": 37.183150999999995
+  },
+  "0x1d47C7F14581d998ED1EaEFf4Cc45f7337Dd6A6E": {
+    "total_volume": 62.655148,
+    "today_added_volume": 62.655148
+  },
+  "0x97c4875443FbB402F2784931Ebcc6Aeb256c8E80": {
+    "total_volume": 37.098754,
+    "today_added_volume": 37.098754
+  },
+  "0x21C6d49b85ea8908763020Dc19649b65EeE7d10A": {
+    "total_volume": 16.253090999999998,
+    "today_added_volume": 16.253090999999998
+  },
+  "0xDA2FaEF4AE66F3A249dA8E76bF1C863385ac27B6": {
+    "total_volume": 184.29460799999998,
+    "today_added_volume": 184.29460799999998
+  },
+  "0xC7a4CE143655AB2eaE807355a7c5241b9b264bE0": {
+    "total_volume": 38.246208,
+    "today_added_volume": 38.246208
+  },
+  "0x83d4358867943d5416B472cED2D47BF7509dE3fd": {
+    "total_volume": 36.40841,
+    "today_added_volume": 36.40841
+  },
+  "0xf3C56842Fe82aF4f31E3aACfE2A81470403b423E": {
+    "total_volume": 14.998899999999999,
+    "today_added_volume": 14.998899999999999
+  },
+  "0xc2238a035654222288767E4671d7b9D30BA55A2F": {
+    "total_volume": 19.99055,
+    "today_added_volume": 19.99055
+  },
+  "0x516cFb5E112A579A0bAEbdce746b46066D07B0E0": {
+    "total_volume": 36.2249,
+    "today_added_volume": 36.2249
+  },
+  "0x9F565Fb8134bCfA894eED5443F66a643C2d23d65": {
+    "total_volume": 157.33892799999998,
+    "today_added_volume": 157.33892799999998
+  },
+  "0x212BC9076e01596CC24c5F7C465D4989f2c1Bf3F": {
+    "total_volume": 38.15994,
+    "today_added_volume": 38.15994
+  },
+  "0x09761351fB9fe40896673594eA005da4d3CEA360": {
+    "total_volume": 30.425979,
+    "today_added_volume": 30.425979
+  },
+  "0x5353954924141160E23Ae3B7Faa5416d16467Ec9": {
+    "total_volume": 16.027619,
+    "today_added_volume": 16.027619
+  },
+  "0xf6f73408773001BF446076EeC245F3807741c089": {
+    "total_volume": 9.22328,
+    "today_added_volume": 9.22328
+  },
+  "0x7DB6fe49791D5876609336e4fE0c27464998C1cc": {
+    "total_volume": 832.2778999999999,
+    "today_added_volume": 832.2778999999999
+  },
+  "0x7C9Ff307Ae4e29c4c29A894c1c9938a7fEf88929": {
+    "total_volume": 36.24435,
+    "today_added_volume": 36.24435
+  },
+  "0x5913Cd9973E538F4d941e35F61cc043AAE41cD5B": {
+    "total_volume": 36.33377,
+    "today_added_volume": 36.33377
+  },
+  "0x30fA80643dDF791FF638B2017c4428Ccc280B14F": {
+    "total_volume": 7.699065,
+    "today_added_volume": 7.699065
+  },
+  "0xFcAF55dF73dD28c1B3698A30eA55FCD027512418": {
+    "total_volume": 36.299040000000005,
+    "today_added_volume": 36.299040000000005
+  },
+  "0xC920dd9cDdfFC0868bBE9f3265eBE5d43CD5E08D": {
+    "total_volume": 36.54039,
+    "today_added_volume": 36.54039
+  },
+  "0x86B1b0Bd98c0e87caB5407E033E2606788fBeB03": {
+    "total_volume": 36.34731,
+    "today_added_volume": 36.34731
+  },
+  "0xA2bdAEF2c7962493D73BC9a9be45eDf2a321980A": {
+    "total_volume": 2203.251775,
+    "today_added_volume": 2203.251775
+  },
+  "0xDf36D7C9108DEc7453e98586CEeE00ad85DE57DE": {
+    "total_volume": 36.452541999999994,
+    "today_added_volume": 36.452541999999994
+  },
+  "0x38e2B9eB6991FA8E14A3a1f2F576897363F3B888": {
+    "total_volume": 5.0076,
+    "today_added_volume": 5.0076
+  },
+  "0x03Ddd603C1444D7959F49E36f153D79325737965": {
+    "total_volume": 36.649187,
+    "today_added_volume": 36.649187
+  },
+  "0x66907E24A64E7Dbc46d35c9f2FA7732498567d63": {
+    "total_volume": 108.79585499999999,
+    "today_added_volume": 108.79585499999999
+  },
+  "0x02e2Fc4285b61EBF95fc84769D43f9F8211C07F6": {
+    "total_volume": 36.208800000000004,
+    "today_added_volume": 36.208800000000004
+  },
+  "0x9Da6Ad2F5Fe141E2d1E1a0059025b4AC104160e2": {
+    "total_volume": 36.99846,
+    "today_added_volume": 36.99846
+  },
+  "0x6Fb97c7605a95e9F575824612Be811ed545605d6": {
+    "total_volume": 12.85768,
+    "today_added_volume": 12.85768
+  },
+  "0x13dE38Db8a981fCc9D1DDd9546aA2492Eb8c1197": {
+    "total_volume": 16208.923599999996,
+    "today_added_volume": 16208.923599999996
+  },
+  "0xDf1F806Ce8B015bA24e5285e1Aeb0EDA4A8Bf49F": {
+    "total_volume": 19.613,
+    "today_added_volume": 19.613
+  },
+  "0x0C8A0F4b1701b2fe513205db52D7C4428D863272": {
+    "total_volume": 7.7056,
+    "today_added_volume": 7.7056
+  },
+  "0x61eEac241d61996f0Bf4F22408D1F39F271e8961": {
+    "total_volume": 36.235814999999995,
+    "today_added_volume": 36.235814999999995
+  },
+  "0x4a73ee8A5E74bbefBCb87e58Ad11f8F6e8d2Ea77": {
+    "total_volume": 19.79034,
+    "today_added_volume": 19.79034
+  },
+  "0x9706F7d2E28a7a0dBf7572796F50FC1b48C70A65": {
+    "total_volume": 22.167896,
+    "today_added_volume": 22.167896
+  },
+  "0x34e6253917743a79eb2a632F9264a3087E9499bC": {
+    "total_volume": 36.29626,
+    "today_added_volume": 36.29626
+  },
+  "0x1Ca8b46d5f2910EEC8D91b2941e28ebFE15FFab8": {
+    "total_volume": 224.42755699999998,
+    "today_added_volume": 224.42755699999998
+  },
+  "0xABa190f8eB1565Aa77576A0133B57d55334E4097": {
+    "total_volume": 38.633599000000004,
+    "today_added_volume": 38.633599000000004
+  },
+  "0x13F40488AB4A15203575ce8E80501503A8aE9097": {
+    "total_volume": 40.997512,
+    "today_added_volume": 40.997512
+  },
+  "0xf3DBd650A45B0D989528C533C4f3AA988dc0F42D": {
+    "total_volume": 52.398229,
+    "today_added_volume": 52.398229
+  },
+  "0x8592ef9Bc60675431095dAe084B296f5A5986995": {
+    "total_volume": 54.023564,
+    "today_added_volume": 54.023564
+  },
+  "0x9116029F91B6E1e51C28b2b0c8A676164669b40e": {
+    "total_volume": 55.326207999999994,
+    "today_added_volume": 55.326207999999994
+  },
+  "0xa13FF8c986FF24701FEd035C67c416c60468F4c5": {
+    "total_volume": 28.460521,
+    "today_added_volume": 28.460521
+  },
+  "0xe7c85CFc5B4F74f6F1d28858bc32A0eee4A3d25F": {
+    "total_volume": 488.468743,
+    "today_added_volume": 488.468743
+  },
+  "0xe10CA4aBdE1b2f657608168a059C86F1b6A8bB07": {
+    "total_volume": 184.660244,
+    "today_added_volume": 184.660244
+  },
+  "0x12cF3C704F57c5f4ED6814edA56BD2B99E943209": {
+    "total_volume": 36.81792,
+    "today_added_volume": 36.81792
+  },
+  "0xc434d29756aA215a18A0c48C1261659dd3481cff": {
+    "total_volume": 43.575815000000006,
+    "today_added_volume": 43.575815000000006
+  },
+  "0x605efF88c44598Bf3BD6368610aA2570d40cfd2e": {
+    "total_volume": 40.410709999999995,
+    "today_added_volume": 40.410709999999995
+  },
+  "0x9c828a57eaF97682FB082396C99c0848871f0363": {
+    "total_volume": 41.18795,
+    "today_added_volume": 41.18795
+  },
+  "0xA3fEA938a64652deaf7Df23d35Fd261C9dE85737": {
+    "total_volume": 6.996722,
+    "today_added_volume": 6.996722
+  },
+  "0x52b721F5449D3baEd4321Eb0343b05cd7EA8D39c": {
+    "total_volume": 49.90063,
+    "today_added_volume": 49.90063
+  },
+  "0xC02B56544B55FaDe38bB7b04f9D9F41510391Bfb": {
+    "total_volume": 39.999074,
+    "today_added_volume": 39.999074
+  },
+  "0xE032B74aD4CEF9a05dC343DE9Fa19743bFfddAf2": {
+    "total_volume": 89.54771099999999,
+    "today_added_volume": 89.54771099999999
+  },
+  "0x2688Ab0B4cC5824A98dc2fAF3dcc9c2DD9aA7F8f": {
+    "total_volume": 145.77110100000002,
+    "today_added_volume": 145.77110100000002
+  },
+  "0x0e09C867327964adeDED3C4FD5093133F6A9A951": {
+    "total_volume": 7.72,
+    "today_added_volume": 7.72
+  },
+  "0xbDfc4f398ce4899a66112e921942dA9216f45953": {
+    "total_volume": 23.65422,
+    "today_added_volume": 23.65422
+  },
+  "0x4d59f0CDb581eA96b90461D870dCB2D2429cE08b": {
+    "total_volume": 39.97584,
+    "today_added_volume": 39.97584
+  },
+  "0x4f1b68de51AebE1DE58DD64A2a0b927e5cfc1267": {
+    "total_volume": 30.30048,
+    "today_added_volume": 30.30048
+  },
+  "0x6C59fD23767A90ce532715f8Ae815B57941dfC23": {
+    "total_volume": 37.541767,
+    "today_added_volume": 37.541767
+  },
+  "0x3a102e38cade9EEe89A0220545b239abFf13eF5c": {
+    "total_volume": 9.38196,
+    "today_added_volume": 9.38196
+  },
+  "0xF3a78888De4DA96A80eCB9f775fFf22CC883bc86": {
+    "total_volume": 9.003988,
+    "today_added_volume": 9.003988
+  },
+  "0xFfc4b3798243a034e13b8773357e1D26262a4275": {
+    "total_volume": 108.765094,
+    "today_added_volume": 108.765094
+  },
+  "0xAfd6E73467bA22117274d64C1f3BF7837373f593": {
+    "total_volume": 2678.8214420000013,
+    "today_added_volume": 2678.8214420000013
+  },
+  "0x05DADfc6975cBDaD63979cF36a4E0e2101B7D9F0": {
+    "total_volume": 43.68,
+    "today_added_volume": 43.68
+  },
+  "0x00153559B94f25854aD01f5791a962B3447600FF": {
+    "total_volume": 25.315712,
+    "today_added_volume": 25.315712
+  },
+  "0xc8bBdcA6511aA36052589024a24ea0DE1C021eB0": {
+    "total_volume": 33.4023,
+    "today_added_volume": 33.4023
+  },
+  "0x0824c0577eca6CFd74AbD5BcbE8b3dE54626F564": {
+    "total_volume": 7.6591439999999995,
+    "today_added_volume": 7.6591439999999995
+  },
+  "0x8d15f8D37Fb35fd37243fdFc723E1dD4D63811b1": {
+    "total_volume": 34.14909,
+    "today_added_volume": 34.14909
+  },
+  "0x78f9bf3FCaB6Ea80c64Cd60bdcA71AC79427ebD5": {
+    "total_volume": 36.299646,
+    "today_added_volume": 36.299646
+  },
+  "0x2A309E824A56AC4C9903B0e0519D715dbD63887D": {
+    "total_volume": 145.008151,
+    "today_added_volume": 145.008151
+  },
+  "0x1dD31767849DF2045Df0dffaE15564cD5Cf4BB18": {
+    "total_volume": 36.299422,
+    "today_added_volume": 36.299422
+  },
+  "0xBA9a82fB46133d254B868cAA886e811cacD6AeCE": {
+    "total_volume": 36.295592,
+    "today_added_volume": 36.295592
+  },
+  "0x910ebAd42C26F878d0044772cfbB113EA40c4aF9": {
+    "total_volume": 36.296916,
+    "today_added_volume": 36.296916
+  },
+  "0x64108C2D85AaE796000C6865B871981f50DC42EE": {
+    "total_volume": 7.676835,
+    "today_added_volume": 7.676835
+  },
+  "0x486c154300BB589633734C62150D478cA7440eCE": {
+    "total_volume": 36.296916,
+    "today_added_volume": 36.296916
+  },
+  "0x8E25Fc2105E2A7b508e73e5779F09D693F2B2859": {
+    "total_volume": 136.35428,
+    "today_added_volume": 136.35428
+  },
+  "0x636D7eb892E9bC5B4B4dce96Bf325B8015393Af9": {
+    "total_volume": 39.997344000000005,
+    "today_added_volume": 39.997344000000005
+  },
+  "0xb5C1CD9D0C93B9f340C7cb0F7B9E6b53Fb088D40": {
+    "total_volume": 39.497445,
+    "today_added_volume": 39.497445
+  },
+  "0xFdDd89CD4f40dA61c23341F488244B7F4533e271": {
+    "total_volume": 738.9741600000003,
+    "today_added_volume": 738.9741600000003
+  },
+  "0x90CF9B7f814eeCb904504c49D00D92417892588e": {
+    "total_volume": 36.290655,
+    "today_added_volume": 36.290655
+  },
+  "0xdc7D3c392dB5EaA02BB70927BB2b24E79c874638": {
+    "total_volume": 36.287932,
+    "today_added_volume": 36.287932
+  },
+  "0x1da30e86c9A933a8c21C62bA55F7DD1015b4391C": {
+    "total_volume": 36.28248000000001,
+    "today_added_volume": 36.28248000000001
+  },
+  "0x181d0D436A0765c1fdd652E6efF83f35a3670E88": {
+    "total_volume": 114.00199400000001,
+    "today_added_volume": 114.00199400000001
+  },
+  "0xECEF0DE4b3951c5f370d8c4ae6976082e2de1169": {
+    "total_volume": 39.496016,
+    "today_added_volume": 39.496016
+  },
+  "0x35942031a721d893250Dca75b053eB682F6Ef188": {
+    "total_volume": 36.295469999999995,
+    "today_added_volume": 36.295469999999995
+  },
+  "0x5dDa573B1c4258d26fD6a1Cea1F73E43F3894ce2": {
+    "total_volume": 19.032999999999998,
+    "today_added_volume": 19.032999999999998
+  },
+  "0xC3309C40fA8040B6b050E4bd334Ac382282e162b": {
+    "total_volume": 70.83259699999999,
+    "today_added_volume": 70.83259699999999
+  },
+  "0xA4C22473Aa423CAB49b993DE40633BDFe4E91819": {
+    "total_volume": 12.38932,
+    "today_added_volume": 12.38932
+  },
+  "0xF0A93aeF3493607C0e3827d4Bd3dBf330b9455dd": {
+    "total_volume": 38.999109999999995,
+    "today_added_volume": 38.999109999999995
+  },
+  "0xd55BF773Eb9D56c4c209365f6D45b2b0EbA1B6e5": {
+    "total_volume": 532.2413300000001,
+    "today_added_volume": 532.2413300000001
+  },
+  "0x7c16Cf41639b84A8160c088F5D5163289D1CA009": {
+    "total_volume": 17.675456,
+    "today_added_volume": 17.675456
+  },
+  "0xF5491212b11d3DcEf6274578795e1c89c1Ef6216": {
+    "total_volume": 43.8154,
+    "today_added_volume": 43.8154
+  },
+  "0x22b8a40b7D6870271c87D07a4ef900694369BAFB": {
+    "total_volume": 92.13733999999998,
+    "today_added_volume": 92.13733999999998
+  },
+  "0xC1aEe396FbC315791eF83fFDA50AeD174c5f8942": {
+    "total_volume": 152.11519800000002,
+    "today_added_volume": 152.11519800000002
+  },
+  "0xB7bE2214568Bf09AEbf2933B80485f9d758E3CFD": {
+    "total_volume": 38.997785,
+    "today_added_volume": 38.997785
+  },
+  "0x5b50D7649bc6d7e79481F630dd6312a87FE873BE": {
+    "total_volume": 12.28228,
+    "today_added_volume": 12.28228
+  },
+  "0x182E5Af2CCFa6E26f00b71A24a798e119105c09B": {
+    "total_volume": 36.894347,
+    "today_added_volume": 36.894347
+  },
+  "0xd9A750593FB1Ab436bBb65956cC64E87E1f7dbBd": {
+    "total_volume": 5682.233799999998,
+    "today_added_volume": 5682.233799999998
+  },
+  "0x78DD719893E6DF1072241A5ac5d21080Cb0De478": {
+    "total_volume": 154.989242,
+    "today_added_volume": 154.989242
+  },
+  "0xc1eB4F8c4B56C74bB401134a5B2378dd27110efA": {
+    "total_volume": 10.08164,
+    "today_added_volume": 10.08164
+  },
+  "0x1a7d08EC27eAEE870734b807d337Ed2C289010A2": {
+    "total_volume": 799.1673000000001,
+    "today_added_volume": 799.1673000000001
+  },
+  "0x208B93f4F6ADA29C2a3d80E4606cA09210acC169": {
+    "total_volume": 8.2093,
+    "today_added_volume": 8.2093
+  },
+  "0x4bD80C74BD1f21bfFDAD440f3ee8a1f4443406d8": {
+    "total_volume": 49.846540000000005,
+    "today_added_volume": 49.846540000000005
+  },
+  "0x3bAa28968427213ff212F28d736687c647f0ebD3": {
+    "total_volume": 8.162937000000001,
+    "today_added_volume": 8.162937000000001
+  },
+  "0x8174DFfaB7817a3A2BB109bFB6bF6595Ce7378CA": {
+    "total_volume": 7.7216,
+    "today_added_volume": 7.7216
+  },
+  "0xa1Be879637f9626ea1eEA37978de5EA27C8a5815": {
+    "total_volume": 1229.78846,
+    "today_added_volume": 1229.78846
+  },
+  "0x73dEDd2eef068137067027FA311ad09dC87963B8": {
+    "total_volume": 7.519057,
+    "today_added_volume": 7.519057
+  },
+  "0xE701f3eb5924d6596F91647665C45Df7D9898B10": {
+    "total_volume": 7.7216,
+    "today_added_volume": 7.7216
+  },
+  "0x699bEeF82677D611F97c6cAc21Ce83891B5683ed": {
+    "total_volume": 127.88011500000002,
+    "today_added_volume": 127.88011500000002
+  },
+  "0x9d068270C59FA873002023EC108dca1EB7DC32E3": {
+    "total_volume": 145.98826,
+    "today_added_volume": 145.98826
+  },
+  "0x0909b329F8Df5c9aea0e1b28FF348f0be3fD8EB6": {
+    "total_volume": 15.18782,
+    "today_added_volume": 15.18782
+  },
+  "0xe33014E0EfdFA0B6ec0c2517464bAf4C49975F5a": {
+    "total_volume": 8.492,
+    "today_added_volume": 8.492
+  },
+  "0x07b4de2B0B5e41a8BB9E74aa18B861d03ce1a847": {
+    "total_volume": 54.995748,
+    "today_added_volume": 54.995748
+  },
+  "0x3E5A9DbC118fc68db3ceCF5C0b67Ac3B93632D2f": {
+    "total_volume": 40.489889999999995,
+    "today_added_volume": 40.489889999999995
+  },
+  "0xfe23d25dBfe9ed4635Ea82e3fb073dCD5a5376C9": {
+    "total_volume": 41.74569,
+    "today_added_volume": 41.74569
+  },
+  "0x63Af4aE3A8E87DEcb69B0Db82344b5B02C5D86B2": {
+    "total_volume": 41.831629,
+    "today_added_volume": 41.831629
+  },
+  "0x2B614E64F56326462DEDb3Feb1b560fd34Df0F7b": {
+    "total_volume": 41.5529,
+    "today_added_volume": 41.5529
+  },
+  "0xaE31F3e36Fbe09bA4f535ccE38130A72b13291E4": {
+    "total_volume": 41.36412,
+    "today_added_volume": 41.36412
+  },
+  "0x30a2d3699e40bCe3c2592bBB46789263694E78e9": {
+    "total_volume": 41.761069000000006,
+    "today_added_volume": 41.761069000000006
+  },
+  "0x5997e796665F6Da5E22bf7ed395C4c63CAA3D915": {
+    "total_volume": 40.033163,
+    "today_added_volume": 40.033163
+  },
+  "0xF025985D4Fe032e6E1097A8F35D01020d12f8f9c": {
+    "total_volume": 40.138648,
+    "today_added_volume": 40.138648
+  },
+  "0xe693F1698E36DE60cD78225a16b5929e913058ed": {
+    "total_volume": 40.901525,
+    "today_added_volume": 40.901525
+  },
+  "0x8D4FD4d4891c1167F86BA596147E8434e4265a3f": {
+    "total_volume": 41.332349,
+    "today_added_volume": 41.332349
+  },
+  "0x4f43f54870895466397a73A809640F1eBFcFB18d": {
+    "total_volume": 37.234700000000004,
+    "today_added_volume": 37.234700000000004
+  },
+  "0xEc1d391710A1A52fA8FE0aE90E8aB76c14963283": {
+    "total_volume": 7.7152,
+    "today_added_volume": 7.7152
+  },
+  "0x3FF3533751DfCF2aDFE6cFCded2f59F8e429E8aa": {
+    "total_volume": 46.447512,
+    "today_added_volume": 46.447512
+  },
+  "0x8124aFfbED5b4B538B2D06b7247f055d6bd7C00C": {
+    "total_volume": 46.2576,
+    "today_added_volume": 46.2576
+  },
+  "0x51149531810218fd3e23D6Bbc9DBeDA2Dce78A56": {
+    "total_volume": 39.490724,
+    "today_added_volume": 39.490724
+  },
+  "0xa850153f7a2c2E0Ffaebad00f529A9f38eF8C3AC": {
+    "total_volume": 145.997814,
+    "today_added_volume": 145.997814
+  },
+  "0xaD3cb6F59D35b571cd57D03bFEBB070BBD9f6399": {
+    "total_volume": 7.7024,
+    "today_added_volume": 7.7024
+  },
+  "0x838Ea3cF94D18c535fE653238B3A53C4A8C10e19": {
+    "total_volume": 37.885705,
+    "today_added_volume": 37.885705
+  },
+  "0xaD2db8487d9e974518D8e5B8B0fA087298f0339E": {
+    "total_volume": 14.601,
+    "today_added_volume": 14.601
+  },
+  "0xcb6899eD2b468cd4283FF8bc0564b8Caf39DB7D7": {
+    "total_volume": 38.998432,
+    "today_added_volume": 38.998432
+  },
+  "0x3e85D85AeF7f6E26de909ae1f4Ad86B5F0ec34AB": {
+    "total_volume": 145.99812,
+    "today_added_volume": 145.99812
+  },
+  "0xe52d08528198D72B1a7e4b083251aFAD50e0EfE3": {
+    "total_volume": 38.987567999999996,
+    "today_added_volume": 38.987567999999996
+  },
+  "0x81Dc8Df14b7095e45E2885239a4711E81d6E2aA7": {
+    "total_volume": 53.075258999999996,
+    "today_added_volume": 53.075258999999996
+  },
+  "0x4672221679895A14E33cc2041F7Cb609c8c0b0bF": {
+    "total_volume": 145.217928,
+    "today_added_volume": 145.217928
+  },
+  "0x34Da181526CC919A52516B33448991EB6f195B4d": {
+    "total_volume": 51.406673,
+    "today_added_volume": 51.406673
+  },
+  "0x3b35Db55D9506E8272782e006e29Aa300b84EaD8": {
+    "total_volume": 7.7216,
+    "today_added_volume": 7.7216
+  },
+  "0xaEC3aeF1330E8bAD297fd04C282Ce0FcF577ce2A": {
+    "total_volume": 36.35034,
+    "today_added_volume": 36.35034
+  },
+  "0x168393e97ba8431d52e347D9FDD034D6cECe86D1": {
+    "total_volume": 36.49497,
+    "today_added_volume": 36.49497
+  },
+  "0x4C98180f203B59946cE8e682365B95827a7eb7bc": {
+    "total_volume": 36.454319999999996,
+    "today_added_volume": 36.454319999999996
+  },
+  "0xb4C83d31d5241DBD2764C4F03C6F2A193f9F9281": {
+    "total_volume": 36.526650000000004,
+    "today_added_volume": 36.526650000000004
+  },
+  "0xF7f35a1f5a187B7d1FBD55CC14E97f5bB2A96A8D": {
+    "total_volume": 36.501125,
+    "today_added_volume": 36.501125
+  },
+  "0x7C8e02d6092A33225CC3C6CE84e0Fb38f77de9f5": {
+    "total_volume": 145.996602,
+    "today_added_volume": 145.996602
+  },
+  "0x476461691DED959522d57c9993e3C72b040Fbb5b": {
+    "total_volume": 88.27172999999999,
+    "today_added_volume": 88.27172999999999
+  },
+  "0x989CA9262d96B467DC8B03042F37A81A3b0368d1": {
+    "total_volume": 51.219291999999996,
+    "today_added_volume": 51.219291999999996
+  },
+  "0xbFE42326FDF44A4DD4a4BEF0e605E869eF77F78B": {
+    "total_volume": 145.99635999999998,
+    "today_added_volume": 145.99635999999998
+  },
+  "0x3A00c8E32d32B22fC336415c30AdCFd4CDE21807": {
+    "total_volume": 54.998600999999994,
+    "today_added_volume": 54.998600999999994
+  },
+  "0x37259984c3667765Fa35D78387d75168Bd3F7Ca1": {
+    "total_volume": 29.75293,
+    "today_added_volume": 29.75293
+  },
+  "0xD6b643647f1c19e872085765bA7a28051B72d5d5": {
+    "total_volume": 38.997504,
+    "today_added_volume": 38.997504
+  },
+  "0xDE535aA0D1Ced2f0fc3D8B9Ce8EC623B9C058353": {
+    "total_volume": 28.896340000000002,
+    "today_added_volume": 28.896340000000002
+  },
+  "0x651795D822f2959F8dFBf4658b8389CA018B3F07": {
+    "total_volume": 145.96554400000002,
+    "today_added_volume": 145.96554400000002
+  },
+  "0xe7B5a8ca8c9600D589389b4fB7ed1b48bd3740c2": {
+    "total_volume": 7.7408,
+    "today_added_volume": 7.7408
+  },
+  "0x69bEdB417C66a7fe3109ECfF2584DD43d4664B03": {
+    "total_volume": 39.947365999999995,
+    "today_added_volume": 39.947365999999995
+  },
+  "0x92c1Dfd3Ee66aFbA76C34f93f62A43b07225a3Fc": {
+    "total_volume": 145.900848,
+    "today_added_volume": 145.900848
+  },
+  "0x580D64DD0D7D8824FC960B95a7e9E38D97cF5ce9": {
+    "total_volume": 12.413630999999999,
+    "today_added_volume": 12.413630999999999
+  },
+  "0x4b0474d805ac92D5BB4eCCB7f8272609A8474287": {
+    "total_volume": 16.356938,
+    "today_added_volume": 16.356938
+  },
+  "0x97D93CD26a4d1cc4C09BC544a2fAc4b41B540F84": {
+    "total_volume": 45.999755,
+    "today_added_volume": 45.999755
+  },
+  "0x596cA0711bbd945c75c460A764F60Cc6Bbbc6063": {
+    "total_volume": 7.291668,
+    "today_added_volume": 7.291668
+  },
+  "0x9Eb70245061eDa78ede9E637f8c965b03e2A7811": {
+    "total_volume": 35.510484000000005,
+    "today_added_volume": 35.510484000000005
+  },
+  "0x18773A66Ed9A61901A5e675Fa9fe8cc4E1dF8AAa": {
+    "total_volume": 54.999018,
+    "today_added_volume": 54.999018
+  },
+  "0x17e94AFcE245aCe710ACDd7F0d3FC85eC5b671dA": {
+    "total_volume": 82.80457,
+    "today_added_volume": 82.80457
+  },
+  "0xfb6698557C7278029f5065b0a381c7bc037fF63D": {
+    "total_volume": 12.536942,
+    "today_added_volume": 12.536942
+  },
+  "0x190673290181d01F5e02BA1D56D5A83BCF9b3fA8": {
+    "total_volume": 41.90211,
+    "today_added_volume": 41.90211
+  },
+  "0x42BFA44AFcaE164027A171948CAf797285CA0A3D": {
+    "total_volume": 40.290864,
+    "today_added_volume": 40.290864
+  },
+  "0x9Fd71a648fD43Fe23638912f0D7800e864f326e8": {
+    "total_volume": 41.778152,
+    "today_added_volume": 41.778152
+  },
+  "0x8cbd7b05F18D7599E63f019Dfa87D5592CAB6be1": {
+    "total_volume": 145.99543400000002,
+    "today_added_volume": 145.99543400000002
+  },
+  "0x79Bc70fC46b80185E6ce83E79647CEB9afCe3243": {
+    "total_volume": 39.547312000000005,
+    "today_added_volume": 39.547312000000005
+  },
+  "0x62AbaaF79feeB38070b380BEe5756014F3D3583d": {
+    "total_volume": 41.016564,
+    "today_added_volume": 41.016564
+  },
+  "0x8F0849Dbee1512508216d70691C171C3cd96e07F": {
+    "total_volume": 40.677904,
+    "today_added_volume": 40.677904
+  },
+  "0x571d47d62Dd929CA537f18B2dEf54cc053DC6926": {
+    "total_volume": 39.997864,
+    "today_added_volume": 39.997864
+  },
+  "0x73D868ACd9234bA9De223Fb474eE18b297A70ADa": {
+    "total_volume": 40.330906,
+    "today_added_volume": 40.330906
+  },
+  "0xd8E9A6bCfefe39f2F74B4aFb1f3ebB5393483aA5": {
+    "total_volume": 40.997212,
+    "today_added_volume": 40.997212
+  },
+  "0x562e44A178E5ace1c12cfA1C968f931EB68ce14e": {
+    "total_volume": 40.266674,
+    "today_added_volume": 40.266674
+  },
+  "0x1019d6689B1C2A5A180f96E9086cE538c8D6Df29": {
+    "total_volume": 36.933561999999995,
+    "today_added_volume": 36.933561999999995
+  },
+  "0x99b319C4276b3Aa8955748D427eC08a7508Ec438": {
+    "total_volume": 7.728,
+    "today_added_volume": 7.728
+  },
+  "0x101884118B790E229Cf5952Bd7F55a23e4C55275": {
+    "total_volume": 145.99760899999998,
+    "today_added_volume": 145.99760899999998
+  },
+  "0x43C6051387a09ed024208ec4f0361Bb09727035C": {
+    "total_volume": 38.987811,
+    "today_added_volume": 38.987811
+  },
+  "0x81E1559413E52B180a7E7079845C851a99B5F1DA": {
+    "total_volume": 145.999022,
+    "today_added_volume": 145.999022
+  },
+  "0xe7Fc17fd4bAF40779E594BeEA1f42d1941C2A4fc": {
+    "total_volume": 54.997972000000004,
+    "today_added_volume": 54.997972000000004
+  },
+  "0x5744711a20f56a87171051D874f9c3dC467F3010": {
+    "total_volume": 16.419156,
+    "today_added_volume": 16.419156
+  },
+  "0x315b053CA071af572EE2E87cD1914C8073C0039B": {
+    "total_volume": 145.99590999999998,
+    "today_added_volume": 145.99590999999998
+  },
+  "0xB7053BCf0Ff3abac4C22Ad14c8cd11719913C1aD": {
+    "total_volume": 145.99555800000002,
+    "today_added_volume": 145.99555800000002
+  },
+  "0x6C53A92166318199a6c402A7AE8635908E5C3355": {
+    "total_volume": 12.6449,
+    "today_added_volume": 12.6449
+  },
+  "0x4eBE7e558b55aF29d7b31a7348F645350BC898DF": {
+    "total_volume": 27.155502000000002,
+    "today_added_volume": 27.155502000000002
+  },
+  "0x14FF65DC59E63FbB8977017cf7b10572ED11a2a3": {
+    "total_volume": 145.99573900000001,
+    "today_added_volume": 145.99573900000001
+  },
+  "0x7649a13E9D9FBd966821a18260bA2835425453d5": {
+    "total_volume": 24.694902,
+    "today_added_volume": 24.694902
+  },
+  "0x1dBfAd9F64ae82137d1258Ec03eC2E9670F343b6": {
+    "total_volume": 145.99537800000002,
+    "today_added_volume": 145.99537800000002
+  },
+  "0xe53fd19bc1D77aFA1C89924e01c29B551163A910": {
+    "total_volume": 145.490784,
+    "today_added_volume": 145.490784
+  },
+  "0x7D750e6c064c94C1A99ee4B70a4321b112b520dC": {
+    "total_volume": 8.15181,
+    "today_added_volume": 8.15181
+  },
+  "0x6796a1c46a4399c3DaD7cae32b16dd16693F15d3": {
+    "total_volume": 54.996673,
+    "today_added_volume": 54.996673
+  },
+  "0x6b3668E7C24C09Aa5A767c1f33fe4F6951DD0343": {
+    "total_volume": 145.99634500000002,
+    "today_added_volume": 145.99634500000002
+  },
+  "0xF3767B725c099766f8Ff83FE2D368b1bc60fB7a5": {
+    "total_volume": 145.947446,
+    "today_added_volume": 145.947446
+  },
+  "0xD462838F38A35044176EcFcdfa44eEf39FfCD1A1": {
+    "total_volume": 145.915199,
+    "today_added_volume": 145.915199
+  },
+  "0x07169660B209c85ad16970ec02F34f787CA5d837": {
+    "total_volume": 112.04654,
+    "today_added_volume": 112.04654
+  },
+  "0xb48bcf1F48FDdDA3eaE5b246B2A8e16b2dBC82A0": {
+    "total_volume": 31.400577,
+    "today_added_volume": 31.400577
+  },
+  "0x64d4aEBBF2c2b2486AD7818E690df5eE5Fa43804": {
+    "total_volume": 23.228714,
+    "today_added_volume": 23.228714
+  },
+  "0x66d92C98E46dd6aAf252ac6D72226A698aB28c22": {
+    "total_volume": 145.996017,
+    "today_added_volume": 145.996017
+  },
+  "0xDec7Cbd7d7510c61C1E487BdC954520F13B99e33": {
+    "total_volume": 145.999006,
+    "today_added_volume": 145.999006
+  },
+  "0x7a26335212b4F894e72218cba5FC6918853B33Fd": {
+    "total_volume": 37.775844,
+    "today_added_volume": 37.775844
+  },
+  "0x7A23E7A894E44bB9B604cB229e6f43e229f24210": {
+    "total_volume": 145.90588,
+    "today_added_volume": 145.90588
+  },
+  "0x5d06AC43dad65B91dE5696016358C00e419A3EdA": {
+    "total_volume": 145.99562000000003,
+    "today_added_volume": 145.99562000000003
+  },
+  "0x9e02B54dBdE0B574069d8a3151DC5965c2E98e7e": {
+    "total_volume": 145.904628,
+    "today_added_volume": 145.904628
+  },
+  "0xb6bB722be0D5DF8a2737a4d0467C7C9E6755939d": {
+    "total_volume": 13.990694999999999,
+    "today_added_volume": 13.990694999999999
+  },
+  "0x816d2DCB44afd5C2afBE361B5C798d83ae5bC540": {
+    "total_volume": 58.49514500000001,
+    "today_added_volume": 58.49514500000001
+  },
+  "0xa5946eF522253Ea70f14e38aF2FB6c7fe479cc7f": {
+    "total_volume": 7.988085,
+    "today_added_volume": 7.988085
+  },
+  "0xD8E0982F17B9C4CaD0F47753A7F562c618CF1e88": {
+    "total_volume": 145.99657599999998,
+    "today_added_volume": 145.99657599999998
+  },
+  "0x5C85d55A727B2443d6b21B0FaD0FFbd93e843185": {
+    "total_volume": 145.999851,
+    "today_added_volume": 145.999851
+  },
+  "0xcc68Df594e8dDDA1A491eDeF5cDeC14E51fd8317": {
+    "total_volume": 145.998065,
+    "today_added_volume": 145.998065
+  },
+  "0x90A5C2d3C34c9495F2F7BeC66d12A8DBeE276004": {
+    "total_volume": 39.99910500000001,
+    "today_added_volume": 39.99910500000001
+  },
+  "0x48709224C0fc372d74AE02b0de345a8ea518b351": {
+    "total_volume": 54.988326,
+    "today_added_volume": 54.988326
+  },
+  "0xF542Cd7322D218aDdC5137FC9Ab63FcCD91a8908": {
+    "total_volume": 15.369606000000001,
+    "today_added_volume": 15.369606000000001
+  },
+  "0x8f5a2Fb6Afa534DDE65e3d343fa78F9cF2d6D518": {
+    "total_volume": 145.997476,
+    "today_added_volume": 145.997476
+  },
+  "0xc1089103cd5D1B551B588784aDEaD8D37a46b0Ee": {
+    "total_volume": 145.99847699999998,
+    "today_added_volume": 145.99847699999998
+  },
+  "0xA8e145d31a13bdD74B6a05A796cF995a956a2179": {
+    "total_volume": 39.113051999999996,
+    "today_added_volume": 39.113051999999996
+  },
+  "0x5bD082c4B881f6d48f5360D8233a1239ca16652C": {
+    "total_volume": 145.999496,
+    "today_added_volume": 145.999496
+  },
+  "0x9246b97908fe06643fF66Db6e85670130D6d562A": {
+    "total_volume": 10.997211,
+    "today_added_volume": 10.997211
+  },
+  "0x68C4A71eb55C22CB37f7faEF389dd7B094214Eae": {
+    "total_volume": 15.995415999999999,
+    "today_added_volume": 15.995415999999999
+  },
+  "0x47aAac004c7fa7ebF749c243eC77c32033bB8849": {
+    "total_volume": 13996.008695999999,
+    "today_added_volume": 13996.008695999999
+  },
+  "0x361c85BB7C5cabF4b397cfAC0F6e9aFd4989934c": {
+    "total_volume": 145.996687,
+    "today_added_volume": 145.996687
+  },
+  "0xf2cfBC91f23932Be57655f45803432d86a5BEC18": {
+    "total_volume": 38.99551400000001,
+    "today_added_volume": 38.99551400000001
+  },
+  "0x9f8aA365ae02856612b66Ba868578a9338Bb849c": {
+    "total_volume": 145.999818,
+    "today_added_volume": 145.999818
+  },
+  "0x59c6e7f010Df3A1686b30340Bc6589B935B2031F": {
+    "total_volume": 145.9958,
+    "today_added_volume": 145.9958
+  },
+  "0x369823ca499491D7910a6510782E9aC7b75A2E8B": {
+    "total_volume": 54.927175999999996,
+    "today_added_volume": 54.927175999999996
+  },
+  "0xF8081b3D17B3e7f43308E8297777CC93C8fcc1DF": {
+    "total_volume": 145.955464,
+    "today_added_volume": 145.955464
+  },
+  "0x1B75800239814949d24c7B1133F3E989e0c524D0": {
+    "total_volume": 145.996136,
+    "today_added_volume": 145.996136
+  },
+  "0xF8aF47ee9AA3a9cc5e42633a13CC70fEB617f498": {
+    "total_volume": 940.9464130000002,
+    "today_added_volume": 940.9464130000002
+  },
+  "0xBDF6abf634E02666E53374E18F2C053128975DC5": {
+    "total_volume": 35.0289,
+    "today_added_volume": 35.0289
+  },
+  "0xdD1743B16bFbF0fC0aC19f4dE5Aa337bF49dD0D1": {
+    "total_volume": 144.99877899999998,
+    "today_added_volume": 144.99877899999998
+  },
+  "0xF17188E27D831aD3F53525ea4AC243262c02AfEf": {
+    "total_volume": 275.73378,
+    "today_added_volume": 275.73378
+  },
+  "0x2FADaC5B676ED406b4aB85606B6D171cdBd9A5Cb": {
+    "total_volume": 145.998232,
+    "today_added_volume": 145.998232
+  },
+  "0xaD34Abf2502de6D5B01a035599dE66a38DB22a66": {
+    "total_volume": 145.99580100000003,
+    "today_added_volume": 145.99580100000003
+  },
+  "0x94AfeB7dd6cf8374bBc0b1939E520C9AfB69f6B7": {
+    "total_volume": 77.963371,
+    "today_added_volume": 77.963371
+  },
+  "0x823258c9d7Bd822884E6b13Df19Fb89B5DC9d0ed": {
+    "total_volume": 145.998727,
+    "today_added_volume": 145.998727
+  },
+  "0xC9403e81E05892c36df5bb66474b121601Ff166A": {
+    "total_volume": 36.587554,
+    "today_added_volume": 36.587554
+  },
+  "0x1b44886E391838B39cC550AAFbc334c1f6A2525e": {
+    "total_volume": 36.75771,
+    "today_added_volume": 36.75771
+  },
+  "0x26E7Fdc3B49d09213e71c6ca2f4515E965AF8F5A": {
+    "total_volume": 145.99807199999998,
+    "today_added_volume": 145.99807199999998
+  },
+  "0xE6b5CA9AE45eeA2Fcf91B800465a4a1A980dd82C": {
+    "total_volume": 145.982418,
+    "today_added_volume": 145.982418
   }
 }
